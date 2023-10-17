@@ -9,7 +9,8 @@ CREATE TABLE users (
     points NUMERIC NOT NULL DEFAULT 0,
     email TEXT,
     tests_taken INTEGER DEFAULT 0,
-    confirmed TEXT DEFAULT 'no'
+    security_question TEXT,
+    security_answer TEXT
     );
 
 CREATE TABLE questions (

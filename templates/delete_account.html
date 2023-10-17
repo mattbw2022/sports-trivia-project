@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+
+{% block title %}
+    Delete Account
+{% endblock %}
+
+{% block main %}
+<iframe src="https://giphy.com/embed/OPU6wzx8JrHna"  class="giphy-embed" allowFullScreen></iframe><p><a class="ref-size" href="https://giphy.com/gifs/spongebob-squarepants-sad-OPU6wzx8JrHna">via GIPHY</a></p>
+    <h3 class="profile"><span>Please don't leave us {{ first_name }}! You could be a contender for the top spot!</span></h3>
+    <br>
+    <br>
+    <form action="/delete_account" method="post">
+        <div class="mb-3">
+            <input autocomplete="off" autofocus class="form-control mx-auto w-auto" id="email" name="email" placeholder="Email" type="email">
+        </div>
+        <div class="mb-3">
+            <input class="form-control mx-auto w-auto" id="password" name="password" placeholder="Password" type="password">
+        </div>
+        <button class="btn btn-primary" type="submit">Submit</button>
+    </form>
+{% endblock %}

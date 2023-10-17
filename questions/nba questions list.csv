@@ -1,0 +1,148 @@
+﻿point_value,category,question,correct_answer,wrong_1,wrong_2,wrong_3
+8,NBA,Who won the NBA Finals in 1990?,Detroit Pistons,Portland Trail Blazers,San Antonio Spurs,Chicago Bulls
+4,NBA,Who won the NBA Finals in 1991?,Chicago Bulls,Los Angeles Lakers,Portland Trail Blazers,Detroit Pistons
+4,NBA,Who won the NBA Finals in 1992?,Chicago Bulls,Portland Trail Blazers,Utah Jazz,Seattle SuperSonics
+4,NBA,Who won the NBA Finals in 1993?,Chicago Bulls,Phoenix Suns,Seattle SuperSonics,Houston Rockets
+6,NBA,Who won the NBA Finals in 1994?,Houston Rockets,New York Knicks,Utah Jazz,Indiana Pacers
+6,NBA,Who won the NBA Finals in 1995?,Houston Rockets,Orlando Magic,San Antonio Spurs,Los Angeles Lakers
+4,NBA,Who won the NBA Finals in 1996?,Chicago Bulls,Seattle SuperSonics,Utah Jazz,Orlando Magic
+4,NBA,Who won the NBA Finals in 1997?,Chicago Bulls,Utah Jazz,Houston Rockets,Los Angeles Lakers
+2,NBA,Who won the NBA Finals in 1998?,Chicago Bulls,Utah Jazz,Los Angeles Lakers,San Antonio Spurs
+6,NBA,Who won the NBA Finals in 1999?,San Antonio Spurs,New York Knicks,Portland Trail Blazers,Los Angeles Lakers
+4,NBA,Who won the NBA Finals in 2000?,Los Angeles Lakers,Indiana Pacers,Utah Jazz,Portland Trail Blazers
+4,NBA,Who won the NBA Finals in 2001?,Los Angeles Lakers,Philadelphia 76ers,San Antonio Spurs,Milwaukee Bucks
+4,NBA,Who won the NBA Finals in 2002?,Los Angeles Lakers,New Jersey Nets,Boston Celtics,San Antonio Spurs
+6,NBA,Who won the NBA Finals in 2003?,San Antonio Spurs,New Jersey Nets,Detroit Pistons,Los Angeles Lakers
+8,NBA,Who won the NBA Finals in 2004?,Detroit Pistons,Los Angeles Lakers,Minnesota Timberwolves,Indiana Pacers
+6,NBA,Who won the NBA Finals in 2005?,San Antonio Spurs,Detroit Pistons,Miami Heat,Phoenix Suns
+6,NBA,Who won the NBA Finals in 2006?,Miami Heat,Dallas Mavericks,Phoenix Suns,Detroit Pistons
+6,NBA,Who won the NBA Finals in 2007?,San Antonio Spurs,Cleveland Cavaliers,Utah Jazz,Detroit Pistons
+6,NBA,Who won the NBA Finals in 2008?,Boston Celtics,Los Angeles Lakers,San Antonio Spurs,Detroit Pistons
+4,NBA,Who won the NBA Finals in 2009?,Los Angeles Lakers,Orlando Magic,Denver Nuggets,Cleveland Cavaliers
+6,NBA,Who won the NBA Finals in 2010?,Los Angeles Lakers,Boston Celtics,Orlando Magic,Phoenix Suns
+4,NBA,Who won the NBA Finals in 2011?,Dallas Mavericks,Miami Heat,Oklahoma City Thunder,Chicago Bulls
+4,NBA,Who won the NBA Finals in 2012?,Miami Heat,Oklahoma City Thunder,Boston Celtics,San Antonio Spurs
+4,NBA,Who won the NBA Finals in 2013?,Miami Heat,San Antonio Spurs,Golden State Warriors,Oklahoma City Thunder
+6,NBA,Who won the NBA Finals in 2014?,San Antonio Spurs,Miami Heat,Oklahoma City Thunder,Indiana Pacers
+6,NBA,Who won the NBA Finals in 2015?,Golden State Warriors,Cleveland Cavaliers,Houston Rockets,Houston Rockets
+6,NBA,Who won the NBA Finals in 2016?,Cleveland Cavaliers,Golden State Warriors,Oklahoma City Thunder,Toronto Raptors
+4,NBA,Who won the NBA Finals in 2017?,Golden State Warriors,Cleveland Cavaliers,Boston Celtics,San Antonio Spurs
+4,NBA,Who won the NBA Finals in 2018?,Golden State Warriors,Cleveland Cavaliers,Houston Rockets,Boston Celtics
+6,NBA,Who won the NBA Finals in 2019?,Toronto Raptors,Golden State Warriors,Milwaukee Bucks,Houston Rockets
+2,NBA,Who won the NBA Finals in 2020?,Los Angeles Lakers,Miami Heat,Denver Nuggets,Boston Celtics
+4,NBA,Who won the NBA Finals in 2021?,Milwaukee Bucks,Phoenix Suns,Los Angeles Lakers,Utah Jazz
+2,NBA,Who won the NBA Finals in 2022?,Golden State Warriors,Boston Celtics,Miami Heat,Dallas Mavericks
+8,NBA,Who won NBA Finals MVP in 1990?,Isiah Thomas,Clyde Drexler,Michael Jordan,Joe Dumars
+4,NBA,Who won NBA Finals MVP in 1991?,Michael Jordan,Scottie Pippen,Magic Johnson,Charles Barkley
+4,NBA,Who won NBA Finals MVP in 1992?,Michael Jordan,Clyde Drexler,Scottie Pippen,Hakeem Olajuwon
+4,NBA,Who won NBA Finals MVP in 1993?,Michael Jordan,Scottie Pippen,Charles Barkley,Dennis Rodman
+6,NBA,Who won NBA Finals MVP in 1994?,Hakeem Olajuwon,Michael Jordan,Patrick Ewing,David Robinson
+6,NBA,Who won NBA Finals MVP in 1995?,Hakeem Olajuwon,Michael Jordan,Shaquille O'Neal,Penny Hardaway
+4,NBA,Who won NBA Finals MVP in 1996?,Michael Jordan,Scottie Pippen,Gary Payton,Dennis Rodman
+4,NBA,Who won NBA Finals MVP in 1997?,Michael Jordan,Scottie Pippen,John Stockton,Karl Malone
+2,NBA,Who won NBA Finals MVP in 1998?,Michael Jordan,Scottie Pippen,John Stockton,Karl Malone
+6,NBA,Who won NBA Finals MVP in 1999?,Tim Duncan,David Robinson,Patrick Ewing,Latrell Sprewell
+6,NBA,Who won NBA Finals MVP in 2000?,Shaquille O'Neal,Kobe Bryant,Reggie Miller,Derek Fisher
+6,NBA,Who won NBA Finals MVP in 2001?,Shaquille O'Neal,Kobe Bryant,Allen Iverson,Chris Webber
+6,NBA,Who won NBA Finals MVP in 2002?,Shaquille O'Neal,Kobe Bryant,Jason Kidd,Kerry Kittles
+8,NBA,Who won NBA Finals MVP in 2003?,Tim Duncan,Tony Parker,Manu Ginobili,Jason Kidd
+10,NBA,Who won NBA Finals MVP in 2004?,Chauncey Billups,Ben Wallace,Richard Hamilton,Tim Duncan
+6,NBA,Who won NBA Finals MVP in 2005?,Tim Duncan,Tony Parker,Manu Ginobili,Ben Wallace
+8,NBA,Who won NBA Finals MVP in 2006?,Dwyane Wade,Shaquille O'Neal,Dirk Nowitzki,Michael Finley
+8,NBA,Who won NBA Finals MVP in 2007?,Tony Parker,Tim Duncan,Manu Ginobili,LeBron James
+10,NBA,Who won NBA Finals MVP in 2008?,Paul Pierce,Kevin Garnett,Ray Allen,Kobe Bryant
+6,NBA,Who won NBA Finals MVP in 2009?,Kobe Bryant,Pau Gasol,Dwight Howard,Rashard Lewis
+6,NBA,Who won NBA Finals MVP in 2010?,Kobe Bryant,Pau Gasol,Paul Pierce,Kevin Garnett
+4,NBA,Who won NBA Finals MVP in 2011?,Dirk Nowitzki,Dwyane Wade,Jason Terry,LeBron James
+6,NBA,Who won NBA Finals MVP in 2012?,LeBron James,Dwyane Wade,Kevin Durant,James Harden
+4,NBA,Who won NBA Finals MVP in 2013?,LeBron James,Tim Duncan,Kawhi Leonard,Chris Bosh
+6,NBA,Who won NBA Finals MVP in 2014?,Kawhi Leonard,LeBron James,Dwyane Wade,Manu Ginobili
+8,NBA,Who won NBA Finals MVP in 2015?,Andre Iguodala,Steph Curry,LeBron James,Kyrie Irving
+6,NBA,Who won NBA Finals MVP in 2016?,LeBron James,Steph Curry,Kyrie Irving,Klay Thompson
+4,NBA,Who won NBA Finals MVP in 2017?,Kevin Durant,LeBron James,Steph Curry,Kyrie Irving
+4,NBA,Who won NBA Finals MVP in 2018?,Kevin Durant,LeBron James,Steph Curry,Klay Thompson
+6,NBA,Who won NBA Finals MVP in 2019?,Kawhi Leonard,Kyle Lowry,Steph Curry,Klay Thompson
+4,NBA,Who won NBA Finals MVP in 2020?,LeBron James,Anthony Davis,Jimmy Butler,Bam Adebayo
+4,NBA,Who won NBA Finals MVP in 2021?,Giannis Antetokounmpo,Chris Paul,Devin Booker,Khris Middleton
+2,NBA,Who won NBA Finals MVP in 2022?,Steph Curry,Klay Thompson,Jayson Tatum,Jaylen Brown
+6,NBA,Who won the regular season NBA MVP in 1990?,Magic Johnson,Michael Jordan,David Robinson,Charles Barkley
+4,NBA,Who won the regular season NBA MVP in 1991?,Michael Jordan,Magic Johnson,David Robinson,Charles Barkley
+4,NBA,Who won the regular season NBA MVP in 1992?,Michael Jordan,Clyde Drexler,David Robinson,Karl Malone
+8,NBA,Who won the regular season NBA MVP in 1993?,Charles Barkley,Hakeem Olajuwon,Michael Jordan,Patrick Ewing
+6,NBA,Who won the regular season NBA MVP in 1994?,Hakeem Olajuwon,David Robinson,Scottie Pippen,Shaquille O'Neal
+8,NBA,Who won the regular season NBA MVP in 1995?,David Robinson,Shaquille O'Neal,Karl Malone,Patrick Ewing
+4,NBA,Who won the regular season NBA MVP in 1996?,Michael Jordan,David Robinson,Hakeem Olajuwon,Scottie Pippen
+6,NBA,Who won the regular season NBA MVP in 1997?,Karl Malone,Michael Jordan,Grant Hill,Tim Hardaway
+6,NBA,Who won the regular season NBA MVP in 1998?,Michael Jordan,Karl Malone,Gary Payton,Shaquille O'Neal
+8,NBA,Who won the regular season NBA MVP in 1999?,Karl Malone,Alonzo Mourning,Tim Duncan,Allen Iverson
+4,NBA,Who won the regular season NBA MVP in 2000?,Shaquille O'Neal,Kevin Garnett,Alonzo Mourning,Tim Duncan
+8,NBA,Who won the regular season NBA MVP in 2001?,Allen Iverson,Tim Duncan,Shaquille O'Neal,Chris Webber
+6,NBA,Who won the regular season NBA MVP in 2002?,Tim Duncan,Jason Kidd,Shaquille O'Neal,Tracy McGrady
+6,NBA,Who won the regular season NBA MVP in 2003?,Tim Duncan,Kevin Garnett,Kobe Bryant,Tracy McGrady
+6,NBA,Who won the regular season NBA MVP in 2004?,Kevin Garnett,Tim Duncan,Jermaine O'Neal,Kobe Bryant
+6,NBA,Who won the regular season NBA MVP in 2005?,Steve Nash,Shaquille O'Neal,Dirk Nowitzki,Tim Duncan
+8,NBA,Who won the regular season NBA MVP in 2006?,Steve Nash,LeBron James,Dirk Nowitzki,Kobe Bryant
+8,NBA,Who won the regular season NBA MVP in 2007?,Dirk Nowitzki,Steve Nash,Kobe Bryant,LeBron James
+6,NBA,Who won the regular season NBA MVP in 2008?,Kobe Bryant,Chris Paul,Kevin Garnett,LeBron James
+6,NBA,Who won the regular season NBA MVP in 2009?,LeBron James,Kobe Bryant,Dwyane Wade,Dwight Howard
+6,NBA,Who won the regular season NBA MVP in 2010?,LeBron James,Kevin Durant,Kobe Bryant,Dwight Howard
+8,NBA,Who won the regular season NBA MVP in 2011?,Derrick Rose,Dwight Howard,LeBron James,Kobe Bryant
+6,NBA,Who won the regular season NBA MVP in 2012?,LeBron James,Kevin Durant,Chris Paul,Kobe Bryant
+6,NBA,Who won the regular season NBA MVP in 2013?,LeBron James,Kevin Durant,Kobe Bryant,Chris Paul
+6,NBA,Who won the regular season NBA MVP in 2014?,Kevin Durant,LeBron James,Blake Griffin,James Harden
+8,NBA,Who won the regular season NBA MVP in 2015?,Steph Curry,James Harden,LeBron James,Russell Westbrook
+8,NBA,Who won the regular season NBA MVP in 2016?,Steph Curry,Kawhi Leonard,LeBron James,Russell Westbrook
+8,NBA,Who won the regular season NBA MVP in 2017?,Russell Westbrook,James Harden,Kawhi Leonard,LeBron James
+6,NBA,Who won the regular season NBA MVP in 2018?,James Harden,LeBron James,Anthony Davis,Damian Lillard
+6,NBA,Who won the regular season NBA MVP in 2019?,Giannis Antetokounmpo,James Harden,Paul George,Nikola Jokic
+6,NBA,Who won the regular season NBA MVP in 2020?,Giannis Antetokounmpo,LeBron James,James Harden,Luka Doncic
+4,NBA,Who won the regular season NBA MVP in 2021?,Nikola Jokic,Joel Embiid,Steph Curry,Giannis Antetokounmpo
+4,NBA,Who won the regular season NBA MVP in 2022?,Nikola Jokic,Joel Embiid,Giannis Antetokounmpo,Devin Booker
+8,NBA,Who has the most regular season NBA MVP awards in NBA history?,Kareem Abdul-Jabbar,Michael Jordan,LeBron James,Bill Russell
+6,NBA,Who has the most NBA Finals MVP awards in NBA history?,Michael Jordan,LeBron James,Tim Duncan,Shaquille O'Neal
+10,NBA,Who has the most career rebounds in NBA history?,Wilt Chamberlain,Bill Russell,Moses Malone,Kareem Abdul-Jabbar
+8,NBA,Who has the most career assists in NBA history?,John Stockton,Jason Kidd,Chris Paul,LeBron James
+8,NBA,Who has the most career steals in NBA history?,John Stockton,Jason Kidd,Chris Paul,Michael Jordan
+10,NBA,Who has the most career steals in NBA history?,Hakeem Olajuwon,Dikembe Mutombo,Kareem Abdul-Jabbar,Artis Gilmore
+10,NBA,Who has the most career turnovers in NBA history?,LeBron James,Karl Malone,Russell Westbrook,Moses Malone
+4,NBA,Who has the most career points in NBA history?,LeBron James,Kareem Abdul-Jabbar,Karl Malone,Kobe Bryant
+10,NBA,Who has the most career triple-doubles in NBA history?,Russell Westbrook,Oscar Robertson,Magic Johnson,Jason Kidd
+4,NBA,Who has the most career 3 point shots made in NBA history?,Steph Curry,Ray Allen,James Harden,Reggie Miller
+8,NBA,Who has the most career 2 point shots made in NBA history?,Kareem Abdul-Jabbar,Karl Malone,Wilt Chamberlain,LeBron James
+10,NBA,Who has the highest career free throw percentage in NBA history?,Steph Curry,Steve Nash,Mark Price,Damian Lillard
+10,NBA,Who played the most career games in NBA history?,Robert Parish,Kareem Abdul-Jabbar,Vince Carter,Dirk Nowitzki
+10,NBA,Who played the most career minutes in NBA history?,Kareem Abdul-Jabbar,Karl Malone,LeBron James,Dirk Nowitzki
+6,NBA,Which NBA franchise has the most NBA chamionships in NBA/ABA history?,Boston Celtics/Los Angeles Lakers,Boston Celtics,Los Angeles Lakers,Golden State Warriors
+6,NBA,Which coach has the most NBA wins in NBA history?,Gregg Popovich,Don Nelson,Lenny Wilkens,Jerry Sloan
+4,NBA,Which coach has the most NBA championships in NBA history?,Phil Jackson,Red Auerbach,Gregg Popovich,Pat Riley
+2,NBA,Who has the most points in Atlanta Hawks history?,Dominique Wilkins,Bob Pettit,Lou Hudson,Cliff Hagan
+10,NBA,Who has the most points in Boston Celtics history?,John Havlicek,Paul Pierce,Larry Bird,Robert Parish
+10,NBA,Who has the most points in BKLN/NJ/NY Nets history?,Brook Lopez,Buck Williams,Vince Carter,Richard Jefferson
+6,NBA,Who has the most points in Charlotte Hornets/Bobcats history?,Kemba Walker,Dell Curry,Gerald Wallace,Larry Johnson
+2,NBA,Who has the most points in Chicago Bulls history?,Michael Jordan,Scottie Pippen,Bob Love,Luol Deng
+10,NBA,Which of these players in NOT in the top 10 of career points scored in Chicago Bulls history?,Derrick Rose,Kirk Hinrich,Zach LaVine,Luol Deng
+2,NBA ,Who has the most points in Cleveland Cavaliers history?,LeBron James,Zydrunas Ilgauskas,Brad Daugherty,Mark Price
+2,NBA,Who has the most points in Dallas Mavericks history?,Dirk Nowitzki,Rolando Blackman,Mark Aguirre,Derek Harper
+8,NBA,Who has the most points in Denver Nuggets/Rockets history?,Alex English,Dan Issel,Carmelo Anthony,Nikola Jokic
+4,NBA,Who has the most points in Detroit/Ft Wayne Pistons history?,Isiah Thomas,Joe Dumars,Bob Lanier,Richard Hamilton
+4,NBA,Who has the most points in GS/SF/PHI Warriors history?,Steph Curry,Wilt Chamberlain,Rick Barry,Chris Mullin
+6,NBA,Who has the most points in HOU/SD Rockets history?,Hakeem Olajuwon,James Harden,Calvin Murphy,Rudy Tomjanovich
+8,NBA,Who has the most points in MEM/VAN Grizzlies history?,Mike Conley,Marc Gasol,Zach Randolph,Pau Gasol
+2,NBA,Who has the most points in Indiana Pacers history?,Reggie Miller,Rik Smits,Billy Knight,Roger Brown
+10,NBA,Who has the most points in LA/SD/BUF Clippers history?,Randy Smith,Blake Griffin,Bob McAdoo,Elton Brand
+8,NBA,Who has the most points in LA/MIN Lakers history?,Kobe Bryant,Jerry West,Kareem Abdul-Jabbar,Magic Johnson
+4,NBA,Who has the most points in Miami Heat history?,Dwyane Wade,Alonzo Mourning,Glen Rice,LeBron James
+8,NBA,Who has the most points in Milwaukee Bucks history?,Giannis Antetokounmpo,Kareem Abdul-Jabbar,Glenn Robinson,Michael Redd
+2,NBA,Who has the most points in Minnesota Timberwolves history?,Kevin Garnett,Karl-Anthony Towns,Andrew Wiggins,Kevin Love
+8,NBA,Who has the most points in New Orleans Pelicans/Hornets history?,Anthony Davis,David West,Chris Paul,Jrue Holiday
+6,NBA,Who has the most points in New York Knicks history?,Patrick Ewing,Walt Frazier,Willis Reed,Alan Houston
+8,NBA,Who has the most points in OKC Thunder/SEA SuperSonics history?,Russell Westbrook,Gary Payton,Kevin Durant,Rashard Lewis
+4,NBA,Who has the most points in Orlando Magic history?,Dwight Howard,Nick Anderson,Tracy McGrady,Shaquille O'Neal
+10,NBA,Who has the most points in Philadelphia 76ers history?,Hal Greer,Allen Iverson,Julius Erving,Dolph Schayes
+10,NBA,Who has the most points in Phoenix Suns history?,Walter Davis,Alvan Adams,Kevin Johnson,Devin Booker
+10,NBA,Who has the most points in Portland Trail Blazers history?,Damian Lillard,Clyde Drexler,LaMarcus Aldridge,Terry Porter
+8,NBA,Who has the most points in SAC/KC Kings history?,Oscar Robertson,Jack Twyman,Mitch Richmond,Tiny Archibald
+6,NBA,Who has the most points in San Antonio Spurs history?,Tim Duncan,George Gervin,David Robinson,Tony Parker
+10,NBA,Who has the most points in Toronto Raptors history?,DeMar DeRozan,Kyle Lowry,Chris Bosh,Vince Carter
+4,NBA,Who has the most points in Utah Jazz history?,Karl Malone,John Stockton,Adrian Dantley,Darrell Griffith
+8,NBA,Who has the most points in Washington Wizards/Bullets history?,Elvin Hayes,Bradley Beal,Jeff Malone,John Wall

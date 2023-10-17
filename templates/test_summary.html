@@ -1,0 +1,54 @@
+<script>
+            var bkg = new Audio("/static/cheering.wav");
+        bkg.play();
+</script>
+
+
+{% extends "base.html" %}
+{% block title %}
+    Play
+{% endblock %}
+
+{% block main %}
+
+<h3 class="question"><span>{{ first_name }}'s Test #{{ test_id }} Summary</span></h3>
+
+{% for row in test %}
+
+{% if row ["correct_answer"] == user_answers[loop.index0] %}
+<div class = "success-bg">
+{% else %}
+<div class = "failure-bg">
+{% endif %}
+    <h4>Question: <span>#{{ loop.index }}</span></h4><br>
+    <h4>Point Value: <span>{{ row ["point_value"] }} points</span></h4>
+    
+<br>
+    <div>
+        <h3><span>{{ row ["question"] }}</span></h3>
+                
+            <div>
+                <ul>
+                    
+                    <li class="success">Correct Answer: {{ row ["correct_answer"] }}</li>
+                    {% if row ["correct_answer"] == user_answers[loop.index0] %}
+                    <li class="success">User Answer: {{ user_answers[loop.index0] }}</li>
+                    {% else %}
+                    <li class="failure">User Answer: {{ user_answers[loop.index0] }}</li>                
+                    {% endif %}
+                </ul>
+            </div>
+            <br>
+    </div>
+</div>
+        <div class="divider">
+            blank
+        </div>
+{% endfor %}
+<ul class="summary-list">
+    <li>Score: <span class="sqlinfo"> {{ correct_answers }}/{{ questions }} &nbsp &nbsp {{score}}%</span></li>
+    <li>Points Possible: <span class="sqlinfo">{{ points_possible }}</span></li>
+    <li>Points Earned: <span class="sqlinfo">{{ points_earned }}</span></li>
+  </ul>
+{% endblock %}
+

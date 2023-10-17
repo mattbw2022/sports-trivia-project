@@ -1,0 +1,286 @@
+﻿point_value,category,question,correct_answer,wrong_1,wrong_2,wrong_3
+6,NFL,Who won the NFL MVP in 1994?,Steve Young,Barry Sanders,Jerry Rice,Deion Sanders
+6,NFL,Who won the NFL MVP in 1995?,Brett Favre,Emmitt Smith & Barry Sanders,Jim Harbaugh,Jerry Rice
+6,NFL,Who won the NFL MVP in 1996?,Brett Favre,Jerome Bettis,Michael Irvin,Terrell Davis
+6,NFL,Who won the NFL MVP in 1997?,Brett Favre & Barry Sanders,Steve Young,Terrell Davis,John Elway
+6,NFL,Who won the NFL MVP in 1998?,Terrell Davis,Randall Cunningham,Jamal Anderson & Jerome Bettis,Randy Moss
+6,NFL,Who won the NFL MVP in 1999?,Kurt Warner,Marshall Faulk,Edgerrin James,Peyton Manning
+6,NFL,Who won the NFL MVP in 2000?,Marshall Faulk,Eddie George,Rich Gannon,Donovan McNabb
+6,NFL,Who won the NFL MVP in 2001?,Kurt Warner,Brett Favre,Kordell Stewart,Marshall Faulk
+6,NFL,Who won the NFL MVP in 2002?,Rich Gannon,Steve McNair & Michael Vick,Brett Favre,Priest Holmes
+6,NFL,Who won the NFL MVP in 2003?,Peyton Manning & Steve McNair,Jamal Lewis,Tom Brady,Ray Lewis
+4,NFL,Who won the NFL MVP in 2004?,Peyton Manning,Michael Vick,Daunte Culpepper,Curtis Martin
+6,NFL,Who won the NFL MVP in 2005?,Shaun Alexander,Peyton Manning,Tiki Barber,Carson Palmer
+6,NFL,Who won the NFL MVP in 2006?,LaDainian Tomlinson,Drew Brees,Peyton Manning,Steven Jackson
+4,NFL,Who won the NFL MVP in 2007?,Tom Brady,Brett Favre,Randy Moss,Adrian Peterson
+4,NFL,Who won the NFL MVP in 2008?,Peyton Manning,Adrian Peterson,Chris Johnson,Kurt Warner
+4,NFL,Who won the NFL MVP in 2009?,Peyton Manning,Drew Brees,Philip Rivers,Brett Favre
+4,NFL,Who won the NFL MVP in 2010?,Tom Brady,Michael Vick,Arian Foster,Aaron Rodgers
+4,NFL,Who won the NFL MVP in 2011?,Aaron Rodgers,Drew Brees,Cam Newton,Peyton Manning
+6,NFL,Who won the NFL MVP in 2012?,Adrian Peterson,Peyton Manning,Calvin Johnson,Aaron Rodgers
+4,NFL,Who won the NFL MVP in 2013?,Peyton Manning,Tom Brady,Drew Brees,Jamaal Charles
+4,NFL,Who won the NFL MVP in 2014?,Aaron Rodgers,Tony Romo,Tom Brady,DeMarco Murray
+4,NFL,Who won the NFL MVP in 2015?,Cam Newton,Tom Brady,Carson Palmer,Russell Wilson
+4,NFL,Who won the NFL MVP in 2016?,Matt Ryan,Tom Brady,Aaron Rodgers,David Johnson
+2,NFL,Who won the NFL MVP in 2017?,Tom Brady,Todd Gurley,Antonio Brown,DeAndre Hopkins
+2,NFL,Who won the NFL MVP in 2018?,Patrick Mahomes,Drew Brees,Todd Gurley,Andrew Luck
+2,NFL,Who won the NFL MVP in 2019?,Lamar Jackson,Patrick Mahomes,Michael Thomas,Christian McCaffrey
+2,NFL,Who won the NFL MVP in 2020?,Aaron Rodgers,Josh Allen,Patrick Mahomes,Derrick Henry
+2,NFL,Who won the NFL MVP in 2021?,Aaron Rodgers,Tom Brady,Cooper Kupp,Jonathan Taylor
+2,NFL,Who won the Super Bowl in the 2021 - 2022 season?,Los Angeles Rams,Cincinnati Bengals,Tampa Bay Buccaneers,Kansas City Chiefs
+2,NFL,Who won the Super Bowl in the 2020 - 2021 season?,Tampa Bay Buccaneers,Kansas City Chiefs,Baltimore Ravens,Los Angeles Rams
+2,NFL,Who won the Super Bowl in the 2019 - 2020 season?,Kansas City Chiefs,San Francisco 49ers,Seattle Seahawks,Green Bay Packers
+2,NFL,Who won the Super Bowl in the 2018 - 2019 season?,New England Patriots,Los Angeles Rams,New Orleans Saints,Kansas City Chiefs
+2,NFL,Who won the Super Bowl in the 2017 - 2018 season?,Philadelphia Eagles,New England Patriots,Minnesota Vikings,Pittsburgh Steelers
+2,NFL,Who won the Super Bowl in the 2016 - 2017 season?,New England Patriots,Atlanta Falcons,Pittsburgh Steelers,Green Bay Packers
+2,NFL,Who won the Super Bowl in the 2015 - 2016 season?,Denver Broncos,Carolina Panthers,New England Patriots,Pittsburgh Steelers
+2,NFL,Who won the Super Bowl in the 2014 - 2015 season?,New England Patriots,Seattle Seahawks,Denver Broncos,Indianapolis Colts
+2,NFL,Who won the Super Bowl in the 2013 - 2014 season?,Seattle Seahawks,Denver Broncos,New England Patriots,Carolina Panthers
+2,NFL,Who won the Super Bowl in the 2012 - 2013 season?,Baltimore Ravens,San Francisco 49ers,New England Patriots,Atlanta Falcons
+4,NFL,Who won the Super Bowl in the 2011 - 2012 season?,New York Giants,New England Patriots,San Francisco 49ers,Baltimore Ravens
+4,NFL,Who won the Super Bowl in the 2010 - 2011 season?,Green Bay Packers,Pittsburgh Steelers,Chicago Bears,New England Patriots
+4,NFL,Who won the Super Bowl in the 2009 - 2010 season?,New Orleans Saints,Indianapolis Colts,Minnesota Vikings,San Diego Chargers
+4,NFL,Who won the Super Bowl in the 2008 - 2009 season?,Pittsburgh Steelers,Arizona Cardinals,Philadelphia Eagles,Pittsburgh Steelers
+4,NFL,Who won the Super Bowl in the 2007 - 2008 season?,New York Giants,New England Patriots,Green Bay Packers,San Diego Chargers
+4,NFL,Who won the Super Bowl in the 2006 - 2007 season?,Indianapolis Colts,Chicago Bears,New England Patriots,Chicago Bears
+4,NFL,Who won the Super Bowl in the 2005 - 2006 season?,Pittsburgh Steelers,Seattle Seahawks,Denver Broncos,Carolina Panthers
+4,NFL,Who won the Super Bowl in the 2004 - 2005 season?,New England Patriots,Philadelphia Eagles,Atlanta Falcons,Pittsburgh Steelers
+4,NFL,Who won the Super Bowl in the 2003 - 2004 season?,New England Patriots,Carolina Panthers,Philadelphia Eagles,Green Bay Packers
+4,NFL,Who won the Super Bowl in the 2002 - 2003 season?,Tampa Bay Buccaneers,Oakland Raiders,Tennessee Titans,San Francisco 49ers
+6,NFL,Who won the Super Bowl in the 2001 - 2002 season?,New England Patriots,St. Louis Rams,Philadelphia Eagles,Pittsburgh Steelers
+6,NFL,Who won the Super Bowl in the 2000 - 2001 season?,Baltimore Ravens,New York Giants,Oakland Raiders,Minnesota Vikings
+6,NFL,Who won the Super Bowl in the 1999 - 2000 season?,St. Louis Rams,Tennessee Titans,Indianapolis Colts,Tampa Bay Buccaneers
+6,NFL,Who won the Super Bowl in the 1998 - 1999 season?,Denver Broncos,Atlanta Falcons,New York Jets,Minnesota Vikings
+6,NFL,Who won the Super Bowl in the 1997 - 1998 season?,Denver Broncos,Green Bay Packers,Pittsburgh Steelers,San Francisco 49ers
+6,NFL,Who won the Super Bowl in the 1996 - 1997 season?,Green Bay Packers,New England Patriots,Carolina Panthers,Pittsburgh Steelers
+6,NFL,Who won the Super Bowl in the 1995 - 1996 season?,Dallas Cowboys,Pittsburgh Steelers,Indianapolis Colts,Green Bay Packers
+6,NFL,Who won the Super Bowl in the 1994 - 1995 season?,San Francisco 49ers,San Diego Chargers,Dallas Cowboys,Miami Dolphins
+6,NFL,Who won the Super Bowl in the 1993 - 1994 season?,Dallas Cowboys,Buffalo Bills,San Francisco 49ers,Kansas City Chiefs
+6,NFL,Who won the Super Bowl in the 1992 - 1993 season?,Dallas Cowboys,Buffalo Bills,Miami Dolphins,San Francisco 49ers
+6,NFL,Who won the Super Bowl in the 1991 - 1992 season?,Washington Redskins,Buffalo Bills,Dallas Cowboys,Denver Broncos
+6,NFL,Who won the Super Bowl in the 1990 - 1991 season?,New York Giants,Buffalo Bills,Miami Dolphins,San Francisco 49ers
+8,NFL,Which team is the only team in NFL history to lose the Super Bowl 4 years in a row?,Buffalo Bills,Denver Broncos,Minnesota Vikings,Pittsburgh Steelers
+2,NFL,Who has won the most Super Bowl MVPS in NFL history?,Tom Brady,Joe Montana,Terry Bradshaw,Troy Aikman
+2,NFL,Who Won the Super Bowl MVP in Super Bowl LVI (2022)?,Cooper Kupp,Aaron Donald,Joe Burrow,Matthew Stafford
+2,NFL,Who won the Super Bowl MVP in Super Bowl LV (2021)?,Tom Brady,Patrick Mahomes,Mike Evans,Travis Kelce
+2,NFL,Who won the Super Bowl MVP in Super Bowl LIV (2020)?,Patrick Mahomes,Tyreek Hill,Jimmy Garroppolo,George Kittle
+4,NFL,Who won the Super Bowl MVP in Super Bowl LIII (2019)?,Julian Edelman,Tom Brady,Jared Goff,Todd Gurley
+4,NFL,Who won the Super Bowl MVP in Super Bowl LII (2018)?,Nick Foles,Tom Brady,Alshon Jeffrey,Rob Gronkowski
+4,NFL,Who won the Super Bowl MVP in Super Bowl LI (2017)?,Tom Brady,Matt Ryan,Julio Jones,Wes Welker
+4,NFL,Who won the Super Bowl MVP in Super Bowl L (2016)?,Von Miller,Peyton Manning,Cam Newton,Josh Norman
+6,NFL,Who won the Super Bowl MVP in Super Bowl XLIX (2015)?,Tom Brady,Marshawn Lynch,Russel Wilson,Rob Gronkowski
+10,NFL,Who won the Super Bowl MVP in Super Bowl XLVIII (2014)?,Malcom Smith,Peyton Manning,Russel Wilson,Demaryius Thomas
+6,NFL,Who won the Super Bowl MVP in Super Bowl XLII (2013)?,Joe Flacco,Colin Kaepernick,Torrey Smith,Michael Crabtree
+6,NFL,Who won the Super Bowl MVP in Super Bowl XLVI (2012)?,Eli Manning,Tom Brady,Wes Welker,Mario Manningham
+6,NFL,Who won the Super Bowl MVP in Super Bowl XLV (2011)?,Aaron Rodgers,Ben Roethlisberger,Antonio Brown,Greg Jennings
+6,NFL,Who won the Super Bowl MVP in Super Bowl XLIV (2010)?,Drew Brees,Peyton Manning,Marvin Harrison,Jonathan Vilma
+6,NFL,Who won the Super Bowl MVP in Super Bowl XLIII (2009)?,Santonio Holmes,Kurt Warner,James Harrison,Ben Roethlisberger
+6,NFL,Who won the Super Bowl MVP in Super Bowl XLII (2008)?,Eli Manning,Michael Strahan,Tom Brady,Randy Moss
+6,NFL,Who won the Super Bowl MVP in Super Bowl XLI (2007)?,Peyton Manning,Devin Hester,Edgerrin James,Rex Grossman
+8,NFL,Who won the Super Bowl MVP in Super Bowl XL (2006)?,Hines Ward,Sean Alexander,Ben Roethlisberger,Matt Hasselbeck
+10,NFL,Who won the Super Bowl MVP in Super Bowl XXXIX (2005)?Deoin Branch,Tom Brady,Donovan McNabb,Terrell Owens
+8,NFL,Who won the Super Bowl MVP in Super Bowl XXXVIII (2004)?,Tom Brady,Steve Smith,Jake Delhomme,Teddy Bruschi
+10,NFL,Who won the Super Bowl MVP in Super Bowl XXXVII (2003)?,Dexter Jackson,Rich Gannon,Tim Brown,Brad Johnson
+8,NFL,Who won the Super Bowl MVP in Super Bowl XXXVI (2002)?,Tom Brady,Marshall Faulk,Kurt Warner,Ty Law
+8,NFL,Who won the Super Bowl MVP in Super Bowl XXXV (2001)?,Ray Lewis,Kerry Collins,Jamal Lewis,Michael Strahan
+8,NFL,Who won the Super Bowl MVP in Super Bowl XXXIV (2000)?,Kurt Warner,Isaac Bruce,Steve McNair,Eddie George
+4,NFL,Who is the all-time passing leader in NFL history?,Tom Brady,Drew Brees,Peyton Manning,Brett Favre
+10,NFL,Who is the all-time passing leader for the Arizona Cardinals?,Jim Hart,Jake Plummer, Carson Palmer,Kyler Murray
+6,NFL,Who is the all-time passing leader for the Atlanta Falcons?,Matt Ryan,Michael Vick,Jeff George,Chris Chandler
+8,NFL,Who is the all-time passing leader for the Baltimore Ravens?,Joe Flacco,Lamar Jackson,Steve McNair,Vinny Testaverde
+6,NFL,Who is the all-time passing leader for the Buffalo Bills?,Jim Kelly,Josh Allen,Ryan Fitzpatrick,Drew Bledsoe
+4,NFL,Who is the all-time passing leader for the Carolina Panthers?,Cam Newton,Jake Delhomme,Steve Beuerlein,Kerry Collins
+8,NFL,Who is the all-time passing leader for the Chicago Bears?,Jay Cutler,Jim Harbaugh,Jim McMahon,Sid Luckman
+10,NFL,Who is the all-time passing leader for the Cincinnati Bengals?,Ken Anderson,Andy Dalton,Boomer Esiason,Carson Palmer
+10,NFL,Who is the all-time passing leader for the Cleveland Browns?,Brian Sipe,Otto Graham,Bernie Kosar,Baker Mayfield
+8,NFL,Who is the all-time passing leader for the Dallas Cowboys?,Tony Romo,Troy Aikman,Dak Prescott,Roger Staubach
+8,NFL,Who is the all-time passing leader for the Denver Broncos?,John Elway,Peyton Manning,Brian Griese,Jake Plummer
+4,NFL,Who is the all-time passing leader for the Detroit Lions?,Matthew Stafford,Bobby Layne,Scott Mitchell,Gary Danielson
+8,NFL,Who is the all-time passing leader for the Green Bay Packers?,Brett Favre,Aaron Rodgers,Bart Starr,Lynn Dickey
+10,NFL,Who is the all-time passing leader for the Houston Texans?,Matt Schaub,Deshaun Watson,David Carr,Brock Osweiler
+4,NFL,Who is the all-time passing leader for the Indianapolis Colts?,Peyton Manning,Johnny Unitas,Andrew Luck,Jim Harbaugh
+6,NFL,Who is the all-time passing leader for the Jacksonville Jaguars?,Mark Brunell,Blake Bortles,David Garrard,Byron Leftwich
+8,NFL,Who is the all-time passing leader for the Kansas City Chiefs?,Len Dawson,Patrick Mahomes,Trent Green,Alex Smith
+8,NFL,Who is the all-time passing leader for the LV/LA/OAK Raiders?,Derek Carr,Ken Stabler,Rich Gannon,Jim Plunkett
+6,NFL,Who is the all-time passing leader for the LA/SD Chargers?,Philip Rivers,Dan Fouts,Drew Brees,John Hadl
+10,NFL,Who is the all-time passing leader for the CLE/STL/LA Rams?,Jim Everett,Marc Bulger,Kurt Warner,Jared Goff
+4,NFL,Who is the all-time passing leader for the Miami Dolphins?,Dan Marino,Bob Griese,Ryan Tannehill,Tua Tagovailoa
+6,NFL,Who is the all-time passing leader for the Minnesota Vikings?,Fran Tarkenton,Kirk Cousins,Daunte Culpepper,Brad Johnson
+2,NFL,NFL,Who is the all-time passing leader for the New England Patriots?,Tom Brady,Drew Bledsoe,Steve Grogan,Babe Parilli
+2,NFL,Who is the all-time passing leader for the New Orleans Saints?,Drew Brees,Archie Manning,Aaron Brooks,Bobby Hebert
+6,NFL,Who is the all-time passing leader for the New York Giants?,Eli Manning,Phil Simms,Kerry Collins,Fran Tarkenton
+6,NFL,Who is the all-time passing leader for the New York Jets?,Joe Namath,Chad Pennington,Vinny Testaverde,Ken O'Brien
+6,NFL,Who is the all-time passing leader for the Philadelphia Eagles?Donovan McNabb,Ron Jaworski,Randall Cunningham,Carson Wentz
+6,NFL,Who is the all-time passing leader for the Pittsburgh Steelers?,Ben Roethlisberger,Terry Bradshaw,Kordell Stewart,Neil O'Donnell
+8,NFL,Who is the all-time passing leader for the San Francisco 49ers?,Joe Montana,Steve Young,Jeff Garcia,Alex Smith
+6,NFL,Who is the all-time passing leader for the Seattle Seahawks?,Russell Wilson,Matt Hasselbeck,Dave Krieg,Jim Zorn
+8,NFL,Who is the all-time passing leader for the Tampa Bay Buccaneers?,Jameis Winston,Vinny Testaverde,Tom Brady,Josh Freeman
+8,NFL,Who is the all-time passing leader for the Tennessee Titans/Houston Oilers?,Warren Moon,Steve McNair,George Blanda,Dan Pastorini
+6,NFL, Who is the all-time rushing leader in the history of the NFL?,Emmitt Smith,Walter Payton,Frank Gore,Barry Sanders
+6,NFL,Who is the all-time passing leader for the Washington Commanders?,Joe Theismann,Sammy Baugh,Kirk Cousins,Mark Rypien
+10,NFL,Who is the all-time rushing leader for the Arizona Cardinals?,Ottis Anderson,Stump Mitchell,Jim Otis,David Johnson
+10,NFL,Who is the all-time rushing leader for the Atlanta Falcons?,Gerald Riggs,Michael Turner,Warrick Dunn,Michael Vick
+8,NFL,Who is the all-time rushing leader for the Baltimore Ravens?,Jamal Lewis,Ray Rice,Lamar Jackson,Willis McGahee
+6,NFL,Who is the all-time rushing leader for the Buffalo Bills?,Thurman Thomas,O.J. Simpson,Fred Jackson,Joe Cribbs
+10,NFL,Who is the all-time rushing leader for the Carolina Panthers?,Jonathan Stewart,DeAngelo Williams,Cam Newton,Christian McCaffrey
+6,NFL,Who is the all-time rushing leader for the Chicago Bears?,Walter Payton,Matt Forte,Rick Casares,Gale Sayers
+8,NFL,Who is the all-time rushing leader for the Cincinnati Bengals?,Corey Dillon,James Brooks,Joe Mixon,Rudi Johnson
+4,NFL,Who is the all-time rushing leader for the Cleveland Browns?,Jim Brown,Leroy Kelly,Mike Pruitt,Nick Chubb
+4,NFL,Who is the all-time rushing leader for the Dallas Cowboys?,Emmitt Smith,Tony Dorsett,Ezekiel Elliott,Calvin Hill
+4,NFL,Who is the all-time rushing leader for the Denver Broncos?,Terrell Davis,Floyd Little,Mike Anderson,Knowshon Moreno
+2,NFL,Who is the all-time rushing leader for the Detroit Lions?,Barry Sanders,Billy Sims,Dexter Bussey,Altie Taylor
+6,NFL,Who is the all-time rushing leader for the Green Bay Packers?,Ahman Green,Jim Taylor,Aaron Jones,John Brockington
+4,NFL,Who is the all-time rushing leader for the Houston Texans?,Arian Foster,Domanick Williams,Lamar Miller,Alfred Blue
+6,NFL,Who is the all-time rushing leader for the Indianapolis Colts?,Edgerrin James,Lydell Mitchell,Marshall Faulk,Eric Dickerson
+8,NFL,Who is the all-time rushing leader for the Jacksonville Jaguars?,Fred Taylor,Maurice Jones-Drew,James Stewart,Leonard Fournette
+6,NFL,Who is the all-time rushing leader for the Kansas City Chiefs?,Jamaal Charles,Priest Holmes,Larry Johnson,Marcus Allen
+2,NFL,Who is the all-time rushing leader for the LA/OAK/LV Raiders?,Marcus Allen,Mark van Eeghen,Clem Daniels,Josh Jacobs
+2,NFL,Who is the all-time rushing leader for the SD/LA Chargers?,LaDainian Tomlinson,Paul Lowe,Marion Butts,Melvin Gordon
+8,NFL,Who is the all-time rushing leader for the CLE/STL/LA Rams?,Steven Jackson,Eric Dickerson,Marshall Faulk,Todd Gurley
+6,NFL,Who is the all-time rushing leader for the Miami Dolphins?,Larry Csonka,Ricky Williams,Ronnie Brown,Mercury Morris
+2,NFL,Who is the all-time rushing leader for the Minnesota Vikings?,Adrian Peterson,Robert Smith,Dalvin Cook,Chuck Foreman
+10,NFL,Who is the all-time rushing leader for the Arizona Cardinals?,Sam Cunningham,Jim Nance,Tony Collins,Curtis Martin
+8,NFL,Who is the all-time rushing leader for the New Orleans Saints?,Mark Ingram,Deuce McAllister,Alvin Kamara,George Rodgers
+6,NFL,Who is the all-time rushing leader for the New York Giants?,Tiki Barber,Rodney Hampton,Joe Morris,Brandon Jacobs
+6,NFL,Who is the all-time rushing leader for the New York Jets?,Curtis Martin,John Riggins,Matt Snell,Emerson Boozer
+8,NFL,Who is the all-time rushing leader for the Philadelphia Eagles?,LeSean McCoy,Brian Westbrook,Duce Staley,Steve Van Beuerlein
+8,NFL,Who is the all-time rushing leader for the Pittsburgh Steelers?,Franco Harris,Jerome Bettis,Willie Parker,Le'Veon Bell
+8,NFL,Who is the all-time rushing leader for the San Francisco 49ers?,Frank Gore,Garrison Hearst,Joe Perry,Roger Craig
+4,NFL,Who is the all-time rushing leader for the Seattle Seahawks?,Shaun Alexander,Chris Warren,Marshawn Lynch,Russell Wilson
+10,NFL,Who is the all-time rushing leader for the Tampa Bay Buccaneers?,James Wilder,Mike Alstott,Warrick Dunn,Doug Martin
+8,NFL,Who is the all-time rushing leader for the Houston Oilers/Tennessee Titans?,Eddie George,Earl Campbell,Derrick Henry,Chris Johnson
+6,NFL,Who is the all-time rushing leader for the Washington Commanders?,John Riggins,Clinton Portis,Larry Brown,Stephen Davis
+6,NFL,Which two teams are tied for the most Super Bowl wins in NFL history?,New England Patriots/Pittsburgh Steelers,San Francisco 49ers/Dallas Cowboys,Green Bay Packers/New York Giants,Denver Broncos/Las Vegas Raiders
+6,NFL,Which coach has the most career wins in NFL history?,Don Shula,George Halas,Bill Belichick,Tom Landry
+6,NFL,Who is the all-time receiving yards leader for the Washington Commanders?,Art Monk,Gary Clark,Santana Moss,Charley Taylor
+10,NFL,Who is the all-time receiving yards leader for the Houston Oilers/Tennessee Titans?,Ernest Givins,Drew Hill,Ken Burrough,Charley Hennigan
+6,NFL,Who is the all-time receiving yards leader for the Tampa Bay Buccaneers?,Mike Evans,Chris Godwin,Vincent Jackson,Joey Galloway
+8,NFL,Who is the all-time receiving yards leader for the Seattle Seahawks?,Steve Largent,Brian Blades,Tyler Lockett,Doug Baldwin
+2,NFL,Who is the all-time receiving yards leader for the San Francisco 49ers?,Jerry Rice,Terrell Owens,Dwight Clark,Gene Washington
+6,NFL,Who is the all-time receiving yards leader for the Pittsburgh Steelers?,Hines Ward,Antonio Brown,John Stallworth,Heath Miller
+8,NFL,Who is the all-time receiving yards leader for the Philadelphia Eagles?,Harold Carmichael,Pete Retzlaff,DeSean Jackson,Mike Quick
+10,NFL,Who is the all-time receiving yards leader for the New York Jets?,Don Maynard,Wesley Walker,Wayne Chrebet,Al Toon
+8,NFL,Who is the all-time receiving yards leader for the New York Giants?,Amani Toomer,Odell Beckham Jr.,Frank Gifford,Tiki Barber
+6,NFL,Who is the all-time receiving yards leader for the New Orleans Saints?,Marques Colston,Eric Martin,Joe Horn,Michael Thomas
+10,NFL,Who is the all-time receiving yards leader for the New England Patriots?,Stanley Morgan,Rob Gronkowski,Wes Welker,Julian Edelman
+8,NFL,Who is the all-time receiving yards leader for the Minnesota Vikings?,Cris Carter,Randy Moss,Anthony Carter,Adam Thielen
+10,NFL,Who is the all-time receiving yards leader for the Miami Dolphins?,Mark Duper,Mark Clayton,Nat Moore,Chris Chambers
+8,NFL,Who is the all-time receiving yards leader for the CLE/STL/LA Rams?,Isaac Bruce,Torry Holt,Henry Ellard,Cooper Kupp
+6,NFL,Who is the all-time receiving yards leader for the SD/LA Chargers?,Antonio Gates,Lance Alworth,Keenan Allen,Kellen Winslow
+4,NFL,Who is the all-time receiving yards leader for the LA/OAK/LV Raiders?,Tim Brown,Fred Biletnikoff,Cliff Branch,Todd Christensen
+6,NFL,Who is the all-time receiving yards leader for the Kansas City Chiefs?,Tony Gonzalez,Travis Kelce,Otis Taylor,Dwayne Bowe
+8,NFL,Who is the all-time receiving yards leader for the Jacksonville Jaguars?,Jimmy Smith,Keenan McCardell,Marcedes Lewis,Allen Robinson
+6,NFL,Who is the all-time receiving yards leader for the Indianapolis Colts?,Marvin Harrison,Reggie Wayne,T.Y. Hilton,Raymond Berry
+2,NFL,Who is the all-time receiving yards leader for the Houston Texans?,Andre Johnson,DeAndre Hopkins,Owen Daniels,Kevin Walter
+8,NFL,Who is the all-time receiving yards leader for the Green Bay Packers?,Donald Driver,James Lofton,Sterling Sharpe,Davante Adams
+2,NFL,Who is the all-time receiving yards leader for the Detroit Lions?,Calvin Johnson,Herman Moore,Johnnie Morton,Brett Perriman
+8,NFL,Who is the all-time receiving yards leader for the Denver Broncos?,Rod Smith,Demaryius Thomas, Shannon Sharpe,Ed McCaffrey
+6,NFL,Who is the all-time receiving yards leader for the Dallas Cowboys?,Jason Witten,Michael Irvin,Tony Hill,Drew Pearson
+8,NFL,Who is the all-time receiving yards leader for the Cleveland Browns?,Ozzie Newsome,Dante Lavelli,Mac Speedie,Ray Renfro
+6,NFL,Who is the all-time receiving yards leader for the Cincinnati Bengals?,Chad Johnson,A.J. Green,Isaac Curtis,Cris Collinsworth
+10,NFL,Who is the all-time receiving yards leader for the Chicago Bears?,Johnny Morris,Harlon Hill,Alshon Jeffery,Walter Payton
+4,NFL,Who is the all-time receiving yards leader for the Carolina Panthers?,Steve Smith Sr.,Muhsin Muhammad,Greg Olsen,D.J. Moore
+6,NFL,Who is the all-time receiving yards leader for the Buffalo Bills?,Andre Reed,Eric Moulds,Lee Evans,Elbert Dubenion
+6,NFL,Who is the all-time receiving yards leader for the Baltimore Ravens?,Derrick Mason,Todd Heap,Mark Andrews,Torrey Smith
+6,NFL,Who is the all-time receiving yards leader for the Atlanta Falcons?,Julio Jones,Roddy White,Terance Mathis,Alfred Jenkins
+2,NFL,Who is the all-time receiving yards leader for the Arizona Cardinals?,Larry Fitzgerald,Roy Green,Jackie Smith,Anquan Boldin
+4,NFL,Who is the all-time receiving yards leader in NFL history?,Jerry Rice,Larry Fitzgerald,Tony Gonzalez,Jason Witten
+6,NFL,Who is the all-time rusing touchdown leader in NFL history?,Emmitt Smith,LaDainian Tomlinson,Marcus Allen,Adrian Peterson
+4,NFL,Who is the all-time passing touchdown leader in NFL history?,Tom Brady,Drew Brees,Peyton Manning,Brett Favre
+4,NFL,Who is the all-time receiving touchdown leader in NFL history?,Jerry Rice,Randy Moss,Terrell Owens,Cris Carter
+10,NFL,Who is the all-time passing touchdown leader for the Arizona Cardinals?,Jim Hart,Neil Lomax,Kurt Warner,Carson Palmer
+10,NFL,Who is the all-time rushing touchdown leader for the Arizona Cardinals?,Ottis Anderson,Wayne Morris,John David Crow,David Johnson
+2,NFL,Who is the all-time receiving touchdown leader for the Arizona Cardinals?,Larry Fitzgerald,Roy Green,Sonny Randle,Mel Gray
+2,NFL,Who is the all-time passing touchdown leader for the Atlanta Falcons?,Matt Ryan,Michael Vick,Steve Bartkowski,Chris Chandler
+8,NFL,Who is the all-time rushing touchdown leader for the Atlanta Falcons?,Michael Turner,Gerald Riggs,Jamal Anderson,Devonta Freeman
+8,NFL,Who is the all-time receiving touchdown leader for the Atlanta Falcons?,Roddy White,Julio Jones,Terance Mathis,Andre Rison
+4,NFL,Who is the all-time passing touchdown leader for the Baltimore Ravens?,Joe Flacco,Lamar Jackson,Vinny Testaverde,Kyle Boller
+6,NFL,Who is the all-time rushing touchdown leader for the Baltimore Ravens?,Jamal Lewis,Ray Rice,Lamar Jackson,Willis McGahee
+8,NFL,Who is the all-time receiving touchdown leader for the Baltimore Ravens?,Todd Heap,Mark Andrews,Torrey Smith,Derrick Mason
+4,NFL,Who is the all-time passing touchdown leader for the Buffalo Bills?,Jim Kelly,Joe Ferguson,Josh Allen,Ryan Fitzpatrick
+4,NFL,Who is the all-time rushing touchdown leader for the Buffalo Bills?,Thurman Thomas,O.J. Simpson,Josh Allen,Cookie Gilchrist
+8,NFL,Who is the all-time receiving touchdown leader for the Buffalo Bills?,Andre Reed,Eric Moulds,Lee Evans,Elbert Dubenion
+4,NFL,Who is the all-time passing touchdown leader for the Carolina Panthers?,Cam Newton,Jake Delhomme,Steve Beuerlein,Kerry Collins
+6,NFL,Who is the all-time rushing touchdown leader for the Carolina Panthers?,Cam Newton,Jonathan Stewart,DeAngelo Williams,Christian McCaffrey
+4,NFL,Who is the all-time receiving touchdown leader for the Carolina Panthers?,Steve Smith Sr.,Muhsin Muhammad,Wesley Walls,Greg Olsen
+4,NFL,Who is the all-time passing touchdown leader for the Chicago Bears?,Jay Cutler,Sid Luckman,Billy Wade,Jim McMahon
+2,NFL,Who is the all-time rushing touchdown leader for the Chicago Bears?,Walter Payton,Neal Anderson,Rick Casares,Matt Forte
+8,NFL,Who is the all-time receiving touchdown leader for the Chicago Bears?,Ken Kavanaugh,Harlon Hill,Dick Gordon,Mike Ditka
+6,NFL,Who is the all-time passing touchdown leader for the Cincinnati Bengals?,Andy Dalton,Ken Anderson,Boomer Esiason,Carson Palmer
+10,NFL,Who is the all-time rushing touchdown leader for the Cincinnati Bengals?,Pete Johnson,Rudi Johnson,Corey Dillon,Joe Mixon
+6,NFL,Who is the all-time receiving touchdown leader for the Cincinnati Bengals?,Chad Johnson,A.J. Green, Carl Pickens, Isaac Curtis
+2,NFL,Who is the all-time passing touchdown leader for the Cleveland Browns?,Otto Graham,Brian Sipe,Frank Ryan,Bernie Kosar
+10,NFL,Who is the all-time rushing touchdown leader for the Cleveland Browns?,Jim Brown,Leroy Kelly,Nick Chubb,Mike Pruitt
+10,NFL,Who is the all-time receiving touchdown leader for the Cleveland Browns?,Gary Collins,Dante Lavelli,Paul Warfield,Ray Renfro
+6,NFL,Who is the all-time passing touchdown leader for the Dallas Cowboys?,Tony Romo,Troy Aikman,Dak Prescott,Danny White
+4,NFL,Who is the all-time rushing touchdown leader for the Dallas Cowboys?,Emmitt Smith,Tony Dorsett,Ezekiel Elliott,Marion Barber III
+8,NFL,Who is the all-time receiving touchdown leader for the Dallas Cowboys?,Dez Bryant,Jason Witten,Bob Hayes,Michael Irvin
+6,NFL,Who is the all-time passing touchdown leader for the Denver Broncos?,John Elway,Peyton Manning,Craig Morton,Brian Griese
+2,NFL,Who is the all-time rushing touchdown leader for the Denver Broncos?,Terrell Davis,Floyd Little,Sammy Winder,Mike Anderson
+8,NFL,Who is the all-time receiving touchdown leader for the Denver Broncos?,Rod Smith,Demaryius Thomas,Shannon Sharpe,Ed McCaffrey
+2,NFL,Who is the all-time passing touchdown leader for the Detroit Lions?,Matthew Stafford,Bobby Layne,Greg Landry,Scott Mitchell
+4,NFL,Who is the all-time rushing touchdown leader for the Detroit Lions?,Barry Sanders,Billy Sims,Dutch Clark,Nick Pietrosante
+2,NFL,Who is the all-time receiving touchdown leader for the Detroit Lions?,Calvin Johnson,Herman Moore,Marvin Jones,Johnnie Morton
+6,NFL,Who is the all-time passing touchdown leader for the Green Bay Packers?,Aaron Rodgers,Brett Favre,Bart Starr,Lynn Dickey
+10,NFL,Who is the all-time rushing touchdown leader for the Green Bay Packers?,Jim Taylor,Ahman Green,Paul Hornung,Aaron Jones
+10,NFL,Who is the all-time receiving touchdown leader for the Green Bay Packers?,Don Hutson,Davante Adams,Jordy Nelson,Sterling Sharpe
+4,NFL,Who is the all-time passing touchdown leader for the Houston Texans?,Matt Schaub,Deshaun Watson,David Carr,Davis Mills
+2,NFL,Who is the all-time rushing touchdown leader for the Houston Texans?,Arian Foster,Domanick Williams,Deshaun Watson,Lamar Miller
+2,NFL,Who is the all-time receiving touchdown leader for the Houston Texans?,Andre Johnson,DeAndre Hopkins,Owen Daniels,Kevin Walter
+2,NFL,Who is the all-time passing touchdown leader for the Indianapolis Colts?,Peyton Manning,Johnny Unitas,Andrew Luck,Bert Jones
+4,NFL,Who is the all-time rushing touchdown leader for the Indianapolis Colts?,Edgerrin James,Lenny Moore,Tom Matte,Marshall Faulk
+6,NFL,Who is the all-time receiving touchdown leader for the Indianapolis Colts?,Marvin Harrison,Reggie Wayne,Raymond Berry,T.Y. Hilton
+2,NFL,Who is the all-time passing touchdown leader for the Jacksonville Jaguars?,Mark Brunell,Blake Bortles,David Garrard,Byron Leftwich
+6,NFL,Who is the all-time rushing touchdown leader for the Jacksonville Jaguars?,Maurice Jones-Drew,Fred Taylor,James Stewart,Stacey Mack
+6,NFL,Who is the all-time receiving touchdown leader for the Jacksonville Jaguars?,Jimmy Smith,Marcedes Lewis,Keenan McCardell,Allen Robinson
+6,NFL,Who is the all-time passing touchdown leader for the Kansas City Chiefs?,Len Dawson,Patrick Mahomes,Trent Green,Alex Smith
+8,NFL,Who is the all-time rushing touchdown leader for the Kansas City Chiefs?,Priest Holmes, Larry Johnson,Marcus Allen,Jamaal Charles
+6,NFL,Who is the all-time receiving touchdown leader for the Kansas City Chiefs?,Tony Gonzalez,Travis Kelce,Otis Taylor,Tyreek Hill
+4,NFL,Who is the all-time passing touchdown leader for the LA/OAK/LV Raiders?,Derek Carr,Ken Stabler,Daryle Lamonica,Rich Gannon
+2,NFL,Who is the all-time rushing touchdown leader for the LA/OAK/LV Raiders?,Marcus Allen,Pete Banaszak,Josh Jacobs,Mark van Eeghen
+4,NFL,Who is the all-time receiving touchdown leader for the LA/OAK/LV Raiders?,Tim Brown,Fred Biletnikoff,Cliff Branch,Art Powell
+4,NFL,Who is the all-time passing touchdown leader for the SD/LA Chargers?,Philip Rivers,Dan Fouts,John Hadl,Justin Herbert
+2,NFL,Who is the all-time rushing touchdown leader for the SD/LA Chargers?,LaDainian Tomlinson,Chuck Muncie,Paul Lowe,Melvin Gordon
+2,NFL,Who is the all-time receiving touchdown leader for the SD/LA Chargers?,Antonio Gates,Lance Alworth,Gary Garrison,Keenan Allen
+10,NFL,Who is the all-time passing touchdown leader for the CLE/STL/LA Rams?,Roman Gabriel,Jim Everett,Marc Bulger,Kurt Warner
+8,NFL,Who is the all-time rushing touchdown leader for the CLE/STL/LA Rams?,Marshall Faulk/Todd Gurley,Steven Jackson,Eric Dickerson,Dick Bass
+6,NFL,Who is the all-time receiving touchdown leader for the CLE/STL/LA Rams?,Isaac Bruce,Torry Holt,Elroy Hirsch,Cooper Kupp
+2,NFL,Who is the all-time passing touchdown leader for the Miami Dolphins?,Dan Marino,Bob Griese,Ryan Tannehill,Jay Fiedler
+6,NFL,Who is the all-time rushing touchdown leader for the Miami Dolphins?,Larry Csonka,Ricky Williams,Ronnie Brown,Karim Abdul-Jabbar
+4,NFL,Who is the all-time receiving touchdown leader for the Miami Dolphins?,Mark Clayton,Nat Moore,Mark Duper,Chris Chambers
+6,NFL,Who is the all-time passing touchdown leader for the Minnesota Vikings?,Fran Tarkenton,Tommy Kramer,Kirk Cousins,Daunte Culpepper
+2,NFL,Who is the all-time rushing touchdown leader for the Minnesota Vikings?,Adrian Peterson,Chuck Foreman,Bill Brown,Dalvin Cook
+8,NFL,Who is the all-time receiving touchdown leader for the Minnesota Vikings?,Cris Carter,Randy Moss,Adam Thielen,Anthony Carter
+2,NFL,Who is the all-time passing touchdown leader for the New England Patriots?,Tom Brady,Steve Grogan,Drew Bledsoe,Babe Parilli
+10,NFL,Who is the all-time rushing touchdown leader for the New England Patriots?,Jim Nance,Sam Cunningham,Corey Dillon,Steve Grogan
+4,NFL,Who is the all-time receiving touchdown leader for the New England Patriots?,Rob Gronkowski,Stanley Morgan,Ben Coates,Randy Moss
+2,NFL,Who is the all-time passing touchdown leader for the New Orleans Saints?,Drew Brees,Aaron Brooks,Archie Manning,Bobby Hebert
+8,NFL,Who is the all-time rushing touchdown leader for the New Orleans Saints?,Mark Ingram,Duece McAllister,Alvin Kamara,Dalton Hilliard
+6,NFL,Who is the all-time receiving touchdown leader for the New Orleans Saints?,Marques Colston,Jimmy Graham,Joe Horn,Eric Martin
+4,NFL,Who is the all-time passing touchdown leader for the New York Giants?,Eli Manning,Phil Simms,Charlie Conerly,Fran Tarkenton
+6,NFL,Who is the all-time rushing touchdown leader for the New York Giants?,Brandon Jacobs,Tiki Barber,Rodney Hampton,Joe Morris
+6,NFL,Who is the all-time receiving touchdown leader for the New York Giants?,Amani Toomer,Kyle Rote,Joe Morrison,Odell Beckham Jr.
+4,NFL,Who is the all-time passing touchdown leader for the New York Jets?,Joe Namath,Ken O'Brien,Richard Todd,Chad Pennington
+4,NFL,Who is the all-time rushing touchdown leader for the New York Jets?,Curtis Martin,Emerson Boozer,Johnny Hector,Freeman McNeil
+8,NFL,Who is the all-time receiving touchdown leader for the New York Jets?,Don Maynard,Wesley Walker,Wayne Chrebet,Jerome Barkum
+6,NFL,Who is the all-time passing touchdown leader for the Philadelphia Eagles?,Donovan McNabb,Ron Jaworski,Randall Cunningham,Carson Wentz
+10,NFL,Who is the all-time rushing touchdown leader for the Philadelphia Eagles?,Steve Van Buren,Wilbert Montgomery,LeSean McCoy,Brian Westbrook
+10,NFL,Who is the all-time receiving touchdown leader for the Philadelphia Eagles?,Harold Carmichael,Tommy McDonald,Mike Quick,Pete Pihos
+6,NFL,Who is the all-time passing touchdown leader for the Pittsburgh Steelers?,Ben Roethlisberger,Terry Bradshaw,Kordell Stewart,Neil O'Donnell
+6,NFL,Who is the all-time rushing touchdown leader for the Pittsburgh Steelers?,Franco Harris,Jerome Bettis,Le'Veon Bell,Kordell Stewart
+8,NFL,Who is the all-time receiving touchdown leader for the Pittsburgh Steelers?,Hines Ward,Antonio Brown,John Stallworth,Lynn Swann
+6,NFL,Who is the all-time passing touchdown leader for the San Francisco 49ers?,Joe Montana,Steve Young,John Brodie,Frankie Albert
+8,NFL,Who is the all-time rushing touchdown leader for the San Francisco 49ers?,Joe Perry,Frank Gore,Roger Craig,Ken Willard
+2,NFL,Who is the all-time receiving touchdown leader for the San Francisco 49ers?,Jerry Rice,Terrell Owens,Gene Washington,Vernon Davis
+2,NFL,Who is the all-time passing touchdown leader for the Seattle Seahawks?,Russell Wilson,Dave Krieg,Matt Hasselbeck,Jim Zorn
+6,NFL,Who is the all-time rushing touchdown leader for the Seattle Seahawks?,Shaun Alexander,Marshawn Lynch,Curt Warner,Chris Warren
+6,NFL,Who is the all-time receiving touchdown leader for the Seattle Seahawks?,Steve Largent,Tyler Lockett,Doug Baldwin,Darrell Jackson
+6,NFL,Who is the all-time passing touchdown leader for the Tampa Bay Buccaneers?,Jameis Winston,Tom Brady,Josh Freeman,Vinny Testaverde
+4,NFL,Who is the all-time rushing touchdown leader for the Tampa Bay Buccaneers?,Mike Alstott,James Wilder,Doug Martin,Errict Rhett
+4,NFL,Who is the all-time receiving touchdown leader for the Tampa Bay Buccaneers?,Mike Evans,Jimmie Giles,Cameron Brate,Chris Godwin
+4,NFL,Who is the all-time passing touchdown leader for the Tennessee Titans?,Waren Moon,George Blanda,Steve McNair,Dan Pastorini
+8,NFL,Who is the all-time rushing touchdown leader for the Tennessee Titans?,Derrick Henry,Earl Campbell,Eddie George,Chris Johnson
+10,NFL,Who is the all-time receiving touchdown leader for the Tennessee Titans?,Charley Hennigan,Drew Hill,Ken Burrough,Haywood Jeffires
+8,NFL,Who is the all-time passing touchdown leader for the Washington Commanders?,Sammy Baugh,Sonny Jurgensen,Joe Theismann,Billy Kilmer
+6,NFL,Who is the all-time rushing touchdown leader for the Washington Commanders?,John Riggins,Clinton Portis,Stephen Davis,Terry Allen
+10,NFL,Who is the all-time receiving touchdown leader for the Washington Commanders?,Charley Taylor,Art Monk,Jerry Smith,Gary Clark

@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+
+{% block title %}
+    Unconfirmed
+{% endblock %}
+
+{% block main %}
+    <h2 class="question"><span>Check your inbox for a link to confirm your email and get started!</span></h2>
+        <h6>Hint: Make sure to check your junk and spam folders if you can't find the link.</h6>
+    <br>
+    <div class="giphy">
+        <iframe src="https://giphy.com/embed/LoCDk7fecj2dwCtSB3" width="100%" height="100%" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+    </div>
+    <p><a href="https://giphy.com/gifs/latelateshow-come-here-bring-it-on-ron-burgundy-LoCDk7fecj2dwCtSB3">via GIPHY</a></p>
+    <h2 class="question"><span>Can't find your link?</h2>
+        <div>
+            <form action="/unconfirmed" method="post">
+                    <button class="submit">Resend Confirmation Email</button>
+            </form>
+        </div>
+        
+
+
+
+{% endblock %}

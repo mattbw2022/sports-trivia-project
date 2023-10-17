@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block title %}
+    Change Username
+{% endblock %}
+
+{% block main %}
+    <h3 class="question"><span>Change Username</span></h3>
+    <form action="/change_username" method="post">
+        <div class="mb-3">
+            <input class="form-control mx-auto w-auto" id="new_username" name="new_username" placeholder="New Username" type="text">
+        </div>
+        <button class="submit" type="submit">Submit</button>
+    </form>
+{% endblock %}

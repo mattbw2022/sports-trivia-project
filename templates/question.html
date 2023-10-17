@@ -1,0 +1,97 @@
+<script>   
+        var bkg = new Audio("/static/marching_band.wav");
+        bkg.play(); 
+    function countdown() {
+      let seconds = 15
+
+      setInterval(calculate, 1000);
+      
+      function calculate() {
+        
+        let timeRemaining = seconds - 1;
+        
+        
+        if (timeRemaining > 0) {      
+        seconds = timeRemaining;
+        document.getElementById("seconds").innerHTML = seconds;
+
+            }
+
+        else {
+            document.getElementById('none').click();
+            document.getElementById('submit').click();
+          return;
+        }
+        
+        if (timeRemaining <= 5){
+            var waring = document.getElementById("warning");
+            warning.style.visibility = "visible";
+
+        }
+
+      }
+
+    }
+    
+    (function () { 
+        countdown();
+    }());
+</script>
+
+{% extends "base.html" %}
+{% block title %}
+    Play
+{% endblock %}
+
+
+{% block main %}
+  </div>
+    <div class="question-and-points">
+        <h4 class="sqltitle">Question: <span class="sqlinfo"> #{{ question_number }}</span></h4>
+        <br>
+        <h4 class="sqltitle">Point Value:<span class="sqlinfo"> {{ point_value }} points</span></h4>
+    </div>
+    <div class="container"></div>
+<br>
+
+<form action="/test/{{ test_id }}/question/{{ index }}" method="post">
+    <div>
+        <h3 class="question"><span>{{ question }}</span></h3>
+            <div class="btn-group-vertical" class="btn-group btn-group-toggle" data-toggle="buttons">
+                
+                <input type="radio" class="btn-check" id="1" name="answer" value="{{ answer1 }}">
+                <label class="btn btn-secondary" for="1">{{ answer1 }}</label><br>
+
+                <input type="radio" class="btn-check" id="2" name="answer" value="{{ answer2 }}">
+                <label class="btn btn-secondary" for="2">{{ answer2 }}</label><br>
+                
+                <input type="radio" class="btn-check" id="3" name="answer" value="{{ answer3 }}">
+                <label class="btn btn-secondary" for="3">{{ answer3 }}</label><br>
+                
+                <input type="radio" class="btn-check" id="4" name="answer" value="{{ answer4 }}">
+                <label class="btn btn-secondary" for="4">{{ answer4 }}</label>
+
+                <input type="radio" class="btn-check" id="none" name="answer" value="None">
+                <label hidden class="btn btn-secondary" for="none"></label>
+
+                <br>
+                <button class="submit" id="submit" type="submit" aria-label="Answer">Submit/Next Question</button>
+            </div>
+    </div>
+    <br>
+</form>
+<h4 class="sqltitle">Time Remaining: <span id="seconds" class="sqlinfo">15</span></h4>
+
+<div>
+    <h1 id="warning">Time is running Out!</h1>
+</div>
+
+</div>
+<div class="container text-center"></div>
+    <div class="question-and-points">
+        <h4>{{first_name}}'s Quiz Points: <span class="sqlinfo">{{ quiz_points }}</h4></span>
+        <h4>{{first_name}}'s Total Points: <span class="sqlinfo">{{ total_points }}</h4></span>
+    </div>
+</div>
+
+  {% endblock %}

@@ -1,0 +1,77 @@
+{% extends "base.html" %}
+
+{% block title %}
+    My Profile
+{% endblock %}
+
+{% block main %}
+
+<nav id="profile" class="nav">
+  <a class="profile-link" href="/change_password">Change Password</a>
+  <a class="profile-link" href="/change_username">Change Username</a>
+  <a class="profile-link" href="/delete_account">Delete Account</a>
+</nav>
+<h3 class="profile-welcome"><span>Welcome Back, {{ firstname }}!</span></h3>
+
+  <ul class="list">
+    <li>Points: <span class="sqlinfo">{{ points }}</span></li>
+    <li>Tests Completed: <span class="sqlinfo">{{ tests_taken }}</span></li>
+    <li>Current Rank: <span class="sqlinfo">{{ ranking }}</span></li>
+  </ul>
+  <div class="giphy-profile">
+    <iframe src="https://giphy.com/embed/Od0QRnzwRBYmDU3eEO" width="100%" height="100%" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+    <p><a href="https://giphy.com/gifs/primevideo-2020-borat-subsequent-moviefilm-Od0QRnzwRBYmDU3eEO">via GIPHY</a></p>
+  </div>
+  <h3 class="profile"><span>Completed Tests</span></h3>
+  <table class="table">
+    <thead>
+      <tr>
+        <th scope="col">Test</th>
+        <th scope="col">Score</th>
+        <th scope="col">Points Earned</th>
+        <th scope="col">Submission Date</th>
+        <th scope="col">Summary</th>
+      </tr>
+    </thead>
+    <tbody>
+        {% for row in test_history %}
+            <tr>
+                <td>#{{ row ["test_id"]}}</td>
+                <td>{{ row ["score"] }}%</td>
+                <td>{{ row ["points_earned"] }}</td>
+                <td>{{ row ["submit_date"] }}</td>
+                <td>
+                  <form action="/test_summary/{{ row ['test_id']}}">
+                  <button class="summary submit" type="submit">Summary</button>
+                  </form>
+                </td>
+            </tr>
+        {% endfor %}
+    </tbody>
+  </table>
+    <br>
+  <h3 class="profile"><span>Active Tests</span></h3>
+  <table class="table">
+    <thead>
+      <tr>
+        <th scope="col">Test</th>
+        <th scope="col">Questions Answered</th>
+        <th scope="col">Resume</th>
+      </tr>
+    </thead>
+    <tbody>
+          {% for row in active_tests %}
+            <tr>
+                <td>#{{ row['test_id'] }}</td>
+                <td>{{ row['total_answers'] }}</td>
+                <td>
+                  <form action="/test/{{ row['test_id'] }}/question/{{ row['total_answers'] }}">
+                  <button class="summary submit" type="submit">Resume</button>
+                  </form>
+                </td>
+            </tr>
+            {% endfor %}
+    </tbody>
+  </table>
+
+{% endblock %}

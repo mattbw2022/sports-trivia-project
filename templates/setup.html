@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+
+{% block title %}
+    Setup
+{% endblock %}
+
+{% block main %}
+    <h2 class="headers">
+        <span>Available Tests
+    </h2>
+    <div class="list-group">
+        {% for row in tests %}
+        <form action="/test/{{row['id']}}" method="post">
+            <button class="list-group-item list-group-item-action" type="submit">
+                <ul class="test-list">
+                <li><strong>Test #:</strong> <span class="sqlinfo">{{ row ["id"] }}</li></span>
+                <li><strong>Difficulty:</strong> <span class="sqlinfo">{{ row ["difficulty"] }}</li></span>
+                <li><strong>Categories:</strong> <span class="sqlinfo">{{ row ["categories"] }}</li></span>
+                <li><strong>Date Created:</strong> <span class="sqlinfo">{{ row ["creation_date"] }}</li></span>
+            </ul>
+            </button>
+        </form>
+        {% endfor %}
+    </div>
+
+{% endblock %}

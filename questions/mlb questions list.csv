@@ -1,0 +1,125 @@
+﻿point_value,category,question,correct_answer,wrong_1,wrong_2,wrong_3
+8,MLB,Who won the World Series in 1990?,Cincinnati Reds,Oakland Athletics,Boston Red Sox,Pittsburgh Pirates
+8,MLB,Who won the World Series in 1991?,Minnesota Twins,Atlanta Braves,Toronto Blue Jays,Pittsburgh Pirates
+8,MLB,Who won the World Series in 1992?,Toronto Blue Jays,Philadelphia Phillies,Chicago White Sox,Atlanta Braves
+8,MLB,Who won the World Series in 1993?,Toronto Blue Jays,Philadelphia Phillies,Oakland Athletics,Chicago White Sox
+6,MLB,Who won the World Series in 1995?,Atlanta Braves,Cleveland Indians,Seattle Mariners,Cincinnati Reds
+6,MLB,Who won the World Series in 1996?,New York Yankees,Atlanta Braves,Baltimore Orioles,St. Louis Cardinals
+6,MLB,Who won the World Series in 1997?,Florida Marlins,Cleveland Indians,Atlanta Braves,New York Yankees
+6,MLB,Who won the World Series in 1998?,New York Yankees,San Diego Padres,Cleveland Indians,Atlanta Braves
+6,MLB,Who won the World Series in 1999?,New York Yankees,Atlanta Braves,Boston Red Sox,New York Mets
+6,MLB,Who won the World Series in 2000?,New York Yankees,Seattle Mariners,St. Louis Cardinals,Oakland Athletics
+8,MLB,Who won the World Series in 2001?,Arizona Diamondbacks,New York Yankees,Atlanta Braves,Houston Astros
+10,MLB,Who won the World Series in 2002?,Anaheim Angels,San Francisco Giants,Minnesota Twins,St. Louis Cardinals
+8,MLB,Who won the World Series in 2003?,Florida Marlins,New York Yankees,Boston Red Sox,Chicago Cubs
+6,MLB,Who won the World Series in 2004?,Boston Red Sox,St. Louis Cardinals,New York Yankees,Houston Astros
+10,MLB,Who won the World Series in 2005?,Chicago White Sox,Houston Astros,St. Louis Cardinals,Boston Red Sox
+8,MLB,Who won the World Series in 2006?,St. Louis Cardinals,Detroit Tigers,Oakland Athletics,New York Mets
+6,MLB,Who won the World Series in 2007?,Boston Red Sox,Colorado Rockies,Cleveland Indians,Arizona Diamondbacks
+6,MLB,Who won the World Series in 2008?,Philadelphia Phillies,Tampa Bay Rays,Boston Red Sox,Los Angeles Dodgers
+6,MLB,Who won the World Series in 2009?,New York Yankees,Philadelphia Phillies,Los Angeles Dodgers,Boston Red Sox
+6,MLB,Who won the World Series in 2010?,San Francisco Giants,Texas Rangers,New York Yankees,Philadelphia Phillies
+6,MLB,Who won the World Series in 2011?,St. Louis Cardinals,Texas Rangers,Detroit Tigers,Milwaukee Brewers
+6,MLB,Who won the World Series in 2012?,San Francisco Giants,Detroit Tigers,New York Yankees,St. Louis Cardinals
+6,MLB,Who won the World Series in 2013?,Boston Red Sox,St. Louis Cardinals,Detroit Tigers,Los Angeles Dodgers
+6,MLB,Who won the World Series in 2014?,San Francisco Giants,Kansas City Royals,Baltimore Orioles,St. Louis Cardinals
+8,MLB,Who won the World Series in 2015?,Kansas City Royals,New York Yankees,New York Mets,Toronto Blue Jays
+4,MLB,Who won the World Series in 2016?,Chicago Cubs,Cleveland Indians,Toronto Blue Jays,Texas Rangers
+4,MLB,Who won the World Series in 2017?,Houston Astros,New York Yankees,Los Angeles Dodgers,Chicago Cubs
+4,MLB,Who won the World Series in 2018?,Boston Red Sox,Los Angeles Dodgers,Houston Astros,Milwaukee Brewers
+4,MLB,Who won the World Series in 2019?,Washington Nationals,Houston Astros,New York Yankees,St. Louis Cardinals
+4,MLB,Who won the World Series in 2020?,Los Angeles Dodgers,Tampa Bay Rays,Houston Astros,Atlanta Braves
+4,MLB,Who won the World Series in 2021?,Atlanta Braves,Houston Astros,Boston Red Sox,Los Angeles Dodgers
+2,MLB,Who won the World Series in 2022?,Houston Astros,Philadelphia Phillies,New York Yankees,San Diego Padres
+10,MLB,Who won World Series MVP in 1990?,Jose Rijo,Dave Stewart,Rob Dibble,Randy Myers
+10,MLB,Who won World Series MVP in 1991?,Jack Moris,Kirby Puckett,Steve Avery,Pat Borders
+10,MLB,Who won World Series MVP in 1992?,Pat Borders,Roberto Alomar,John Smoltz,Curt Schilling
+10,MLB,Who won World Series MVP in 1993?,Paul Molitor,Dave Stewart,Curt Schilling,John Smoltz
+8,MLB,Who won World Series MVP in 1995?,Tom Glavine,Orel Hershiser,Mike Devereaux,Javy Lopez
+10,MLB,Who won World Series MVP in 1996?,John Wetteland,Bernie Williams,Javy Lopez,John Smoltz
+10,MLB,Who won World Series MVP in 1997?,Livan Hernandez,Marquis Grissom,Bernie Williams,Javy Lopez
+10,MLB,Who won World Series MVP in 1998?,Scott Brosius,Orlando Hernandez,Eddie Perez,Marquis Grissom
+8,MLB,Who won World Series MVP in 1999?,Mariano Rivera,Orlando Hernandez,Eddie Perez,David Wells
+6,MLB,Who won World Series MVP in 2000?,Derek Jeter,David Justice,Mike Hampton,Orlando Hernandez
+6,MLB,Who won World Series MVP in 2001?,Randy Johnson/Curt Schilling,Andy Pettitte,Craig Counsell,Derek Jeter
+10,MLB,Who won World Series MVP in 2002?,Troy Glaus,Adam Kennedy,Benito Santiago,Derek Jeter
+8,MLB,Who won World Series MVP in 2003?,Josh Beckett,Mariano Rivera,Ivan Rodriguez,Troy Glaus
+6,MLB,Who won World Series MVP in 2004?,Manny Ramirez,David Ortiz,Albert Pujols,Curt Schilling
+10,MLB,Who won World Series MVP in 2005?,Jermain Dye,Roy Oswalt,Paul Konerko,Manny Ramirez
+8,MLB,Who won World Series MVP in 2006?,David Eckstein,Placido Polanco,Jeff Supan,Albert Pujols
+8,MLB,Who won World Series MVP in 2007?,Mike Lowell,Josh Beckett,Matt Holliday,Jeff Suppan
+6,MLB,Who won World Series MVP in 2008?,Cole Hamels,Matt Garza,Mike Lowell,Derek Jeter
+8,MLB,Who won World Series MVP in 2009?,Hideki Matsui,CC Sabathia,Ryan Howard,Chase Utley
+8,MLB,Who won World Series MVP in 2010?,Edgar Renteria,Josh Hamilton,Cody Ross,Michael Young
+8,MLB,Who won World Series MVP in 2011?,David Freese,Josh Hamilton,Nelson Cruz,Albert Pujols
+8,MLB,Who won World Series MVP in 2012?,Pablo Sandoval,Delmon Young,Marco Scutaro,Barry Zito
+6,MLB,Who won World Series MVP in 2013?,David Ortiz,Koji Uehara,Michael Wacha,Mookie Betts
+6,MLB,Who won World Series MVP in 2014?,Madison Bumgarner,Lorenzo Cain,Michael Wacha,David Ortiz
+6,MLB,Who won World Series MVP in 2015?,Salvador Perez,Alcides Escobar,Daniel Murphy,Lorenzo Cain
+8,MLB,Who won World Series MVP in 2016?,Ben Zobrist,Andrew Miller,Javier Baez,Jon Lester
+6,MLB,Who won World Series MVP in 2017?,George Springer,Justin Verlander,Chris Taylor,Justin Turner
+10,MLB,Who won World Series MVP in 2018?,Steve Pearce,Jackie Bradley Jr.,Cody Bellinger,Justin Turner
+6,MLB,Who won World Series MVP in 2019?,Stephen Strasburg,Jose Altuve,Howie Kendrick,Cody Bellinger
+6,MLB,Who won World Series MVP in 2020?,Corey Seager,Randy Arozarena,Yordan Alvarez,Javier Baez
+8,MLB,Who won World Series MVP in 2021?,Jorge Soler,Yordan Alvarez,Eddie Rosario,Corey Seager
+4,MLB,Who won World Series MVP in 2022?,Jeremy Pena,Bryce Harper,Jose Altuve,Justin Verlander
+8,MLB,Who won the regular season MLB MVP for the American League in 2000?,Jason Giambi,Frank Thomas,Alex Rodriguez,Carlos Delgado
+8,MLB,Who won the regular season MLB MVP for the American League in 2001?,Ichiro Suzuki,Jason Giambi,Bret Boone,Roberto Alomar
+8,MLB,Who won the regular season MLB MVP for the American League in 2002?,Miguel Tejada,Alex Rodriguez,Alfonso Soriano,Garret Anderson
+6,MLB,Who won the regular season MLB MVP for the American League in 2003?,Alex Rodriguez,Carlos Delgado,Jorge Posada,Shannon Stewart
+6,MLB,Who won the regular season MLB MVP for the American League in 2004?,Vladimir Guerrero,Gary Sheffield,Manny Ramirez,David Ortiz
+6,MLB,Who won the regular season MLB MVP for the American League in 2005?,Alex Rodriguez,David Ortiz,Vladimir Guerrero,Manny Ramirez
+8,MLB,Who won the regular season MLB MVP for the American League in 2006?,Justin Morneau,Derek Jeter,David Ortiz,Frank Thomas
+6,MLB,Who won the regular season MLB MVP for the American League in 2007?,Alex Rodriguez,Magglio Ordonez,Vladimir Guerrero,David Ortiz
+8,MLB,Who won the regular season MLB MVP for the American League in 2008?,Dustin Pedroia,Justin Morneau,Kevin Youkilis,Joe Mauer
+8,MLB,Who won the regular season MLB MVP for the American League in 2009?,Joe Mauer,Mark Teixeira,Derek Jeter,Miguel Cabrera
+6,MLB,Who won the regular season MLB MVP for the American League in 2010?,Josh Hamilton,Miguel Cabrera,Robinson Cano,Jose Bautista
+6,MLB,Who won the regular season MLB MVP for the American League in 2011?,Justin Verlander,Jacoby Ellsbury,Jose Bautista,Curtis Granderson
+6,MLB,Who won the regular season MLB MVP for the American League in 2012?,Miguel Cabrera,Mike Trout,Adrian Beltre,Robinson Cano
+6,MLB,Who won the regular season MLB MVP for the American League in 2013?,Miguel Cabrera,Mike Trout,Chris Davis,Josh Donaldson
+6,MLB,Who won the regular season MLB MVP for the American League in 2014?,Mike Trout,Victor Martinez,Michael Brantley,Jose Abreu
+8,MLB,Who won the regular season MLB MVP for the American League in 2015?,Josh Donaldson,Mike Trout,Lorenzo Cain,Manny Machado
+4,MLB,Who won the regular season MLB MVP for the American League in 2016?,Mike Trout,Mookie Betts,Jose Altuve,Josh Donaldson
+6,MLB,Who won the regular season MLB MVP for the American League in 2017?,Jose Altuve,Aaron Judge,Jose Ramirez,Mike Trout
+6,MLB,Who won the regular season MLB MVP for the American League in 2018?,Mookie Betts,Mike Trout,Jose Ramirez,J.D. Martinez
+4,MLB,Who won the regular season MLB MVP for the American League in 2019?,Mike Trout,Alex Bregman,Macus Semien,DJ LeMahieu
+8,MLB,Who won the regular season MLB MVP for the American League in 2020?,Jose Abreu,Jose Ramirez,DJ LeMahieu,Shane Bieber
+4,MLB,Who won the regular season MLB MVP for the American League in 2021?,Shohei Ohtani,Vladimir Guerrero Jr.,Macus Semien,Aaron Judge
+2,MLB,Who won the regular season MLB MVP for the American League in 2022?,Aaron Judge,Shohei Ohtani,Yordan Alvarez,Jose Ramirez
+6,MLB,Who won the regular season MLB MVP for the National League in 2000?,Jeff Kent,Barry Bonds,Mike Piazza,Jim Edmonds
+4,MLB,Who won the regular season MLB MVP for the National League in 2001?,Barry Bonds,Sammy Sosa,Luis Gonzalez,Albert Pujols
+4,MLB,Who won the regular season MLB MVP for the National League in 2002?,Barry Bonds,Albert Pujols,Lance Berkman,Vladimir Guerrero
+4,MLB,Who won the regular season MLB MVP for the National League in 2003?,Barry Bonds,Albert Pujols,Gary Sheffield,Jim Thome
+8,MLB,Who won the regular season MLB MVP for the National League in 2004?,Johnny Damon,Paul Konerko,Hank Blalock,Melvin Mora
+6,MLB,Who won the regular season MLB MVP for the National League in 2005?,Albert Pujols,Andruw Jones,Derrek Lee,Morgan Ensberg
+6,MLB,Who won the regular season MLB MVP for the National League in 2006?,Ichiro Suzuki,Justin Verlander,Joe Nathan,Manny Ramirez
+8,MLB,Who won the regular season MLB MVP for the National League in 2007?,Jimmy Rollins,Matt Holiday,Prince Fielder,David Wright
+6,MLB,Who won the regular season MLB MVP for the National League in 2008?,Albert Pujols,Ryan Howard,Ryan Braun,Manny Ramirez
+6,MLB,Who won the regular season MLB MVP for the National League in 2009?,Albert Pujols,Hanley Ramirez,Ryan Howard,Prince Fielder
+8,MLB,Who won the regular season MLB MVP for the National League in 2010?,Joey Votto,Albert Pujols,Carlos Gonzalez,Adrian Gonzalez
+6,MLB,Who won the regular season MLB MVP for the National League in 2011?,Ryan Braun,Matt Kemp,Prince Fielder,Justin Upton
+6,MLB,Who won the regular season MLB MVP for the National League in 2012?,Buster Posey,Ryan Braun,Andrew McCutchen,Yadier Molina
+8,MLB,Who won the regular season MLB MVP for the National League in 2013?,Andrew McCutchen,Paul Goldschmidt,Yadier Molina,Matt Carpenter
+6,MLB,Who won the regular season MLB MVP for the National League in 2014?,Clayton Kershaw,Giancarlo Stanton,Andrew McCutchen,Jonathan Lucroy
+4,MLB,Who won the regular season MLB MVP for the National League in 2015?,Bryce Harper,Paul Goldschmidt,Joey Votto,Anthony Rizzo
+8,MLB,Who won the regular season MLB MVP for the National League in 2016?,Kris Bryant,Daniel Murphy,Corey Seager,Anthony Rizzo
+6,MLB,Who won the regular season MLB MVP for the National League in 2017?,Giancarlo Stanton,Joey Votto,Paul Goldschmidt,Nolan Arenado
+8,MLB,Who won the regular season MLB MVP for the National League in 2018?,Christian Yelich,Javier Baez,Nolan Arenado,Freddie Freeman
+8,MLB,Who won the regular season MLB MVP for the National League in 2019?,Cody Bellinger,Christian Yelich,Anthony Rendon,Ketel Marte
+6,MLB,Who won the regular season MLB MVP for the National League in 2020?,Freddie Freeman,Mookie Betts,Manny Machado,Fernando Tatis Jr.
+4,MLB,Who won the regular season MLB MVP for the National League in 2021?,Bryce Harper,Juan Soto,Fernando Tatis Jr.,Brandon Crawford
+4,MLB,Who won the regular season MLB MVP for the National League in 2022?,Paul Goldschmidt,Manny Machado,Nolan Arenado,Freddie Freeman
+6,MLB,Who has the most career hits in MLB history?,Pete Rose,Ty Cobb,Henry Aaron,Stan Musial
+10,MLB,Who has scored the most career runs in MLB history?,Rickey Henderson,Ty Cobb,Barry Bonds,Babe Ruth
+6,MLB,Who has the most career home runs in MLB history? (includes steroid era),Barry Bonds,Henry Aaron,Babe Ruth,Albert Pujols
+6,MLB,Who has the most career RBI in MLB history?,Henry Aaron,Albert Pujols,Babe Ruth,Alex Rodriguez
+8,MLB,Who holds the record for most single-season hits in MLB history?,Ichiro Suzuki,George Sisler,Lefty O'Doul,Ty Cobb
+6,MLB,Who holds the record for most single-season home runs in MLB history? (includes steroid era),Barry Bonds,Mark McGwire,Aaron Judge,Babe Ruth
+10,MLB,Who holds the reocrd for most single-season RBI in MLB history?,Hack Wilson,Lou Gehrig,Hank Greenberg,Jimmie Foxx
+8,MLB,Which pitcher has the most career strikeouts in MLB history?,Nolan Ryan,Randy Johnson,Roger Clemens,Tom Seaver
+6,MLB,Who has the most career stolen bases in MLB history?,Rickey Henderson,Ty Cobb,Honus Wagner,Joe Morgan
+10,MLB,Who holds the record for most single-season stolen bases in MLB history?,Hugh Nicol,Rickey Henderson,Arlie Latham,Lou Brock
+6,MLB,Which player holds the record for most career MLB MVP awards?,Barry Bonds,Mike Trout,Albert Pujols,Alex Rodriguez
+2,MLB,Which MLB franchise has the most World Series titles?,New York Yankees,St. Louis Cardinals,Boston Red Sox,Oakland Athletics
+8,MLB,Which MLB manager has the most career wins?,Connie Mack,Tony La Russa,John McGraw,Bobby Cox
+4,MLB,Which pitcher has the most career wins in MLB history?,Cy Young,Greg Maddux,Roger Clemens,Warren Spahn

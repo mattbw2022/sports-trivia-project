@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+
+{% block title %}
+    Leaderboard
+{% endblock %}
+
+{% block main %}
+<h2 class="question"><span>Leaderboard</span></h2> <span>  <div class="giphy-profile">
+  <iframe src="https://giphy.com/embed/o75ajIFH0QnQC3nCeD" width="100%" height="100%" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  <p><a href="https://giphy.com/gifs/theoffice-o75ajIFH0QnQC3nCeD">via GIPHY</a></p>
+</div></span>
+<table class="table">
+    <thead>
+      <tr>
+        <th scope="col">Ranking</th>
+        <th scope="col">Username</th>
+        <th scope="col">Points</th>
+        <th scope="col">Tests Taken</th>
+      </tr>
+    </thead>
+    <tbody>
+        {% for row in leaderboard %}
+            <tr>
+                <td>{{ row ["rank"]}}</td>
+                <td>{{ row ["username"] }}</td>
+                <td>{{ row ["points"] }}</td>
+                <td>{{ row ["tests_taken"] }}</td>
+            </tr>
+        {% endfor %}
+    </tbody>
+  </table>
+{% endblock %}

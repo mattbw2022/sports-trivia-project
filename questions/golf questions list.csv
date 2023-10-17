@@ -1,0 +1,151 @@
+﻿point_value,category,question,correct_answer,wrong_1,wrong_2,wrong_3
+6,GOLF,Who has the most golf major championships of all-time?,Jack Nicklaus,Tiger Woods,Sam Snead,Arnold Palmer
+8,GOLF,Who has the most Masters wins of all-time?,Jack Nicklaus,Tiger Woods,Sam Snead,Arnold Palmer
+8,GOLF,Which player does NOT share the record for most US Open wins of all time?,Tiger Woods,Bobby Jones,Ben Hogan,Jack Nicklaus
+8,GOLF,Who has the most Open Championship wins of all-time?,Harry Vardon,Peter Thomson,Tom Watson,Tiger Woods
+8,GOLF,Who has the most PGA Championship wins of all-time?,Walter Hagen/Jack Nicklaus,Tiger Woods,Sam Snead,Gene Sarazen
+6,GOLF,Who has the most PGA Tour wins of all-time?,Sam Snead/Tiger Woods,Jack Nicklaus,Arnold Palmer,Ben Hogan
+8,GOLF,Who has the most European Tour wins of all-time?,Seve Ballesteros,Bernhard Langer,Tiger Woods,Colin Montgomerie
+8,GOLF,Who has the most wins in one PGA Tour season?,Byron Nelson,Ben Hogan,Tiger Woods,Vijay Singh
+4,GOLF,How many major Championships does Jack Nicklaus own?,18,15,16,12
+4,GOLF,How many major Championships does Tiger Woods own?,15,14,10,18
+6,GOLF,How many major Championships does Arnold Palmer own?,7,10,5,3
+6,GOLF,How many major Championships does Phil Mickelson own?,6,8,5,11
+6,GOLF,How many major Championships does Rory McIlroy own?,4,5,6,3
+6,GOLF,How many major Championships does Brooks Koepka own?,4,3,2,6
+6,GOLF,How many major Championships does Jordan Spieth own?,3,4,2,5
+4,GOLF,How many major Championships does Justin Thomas own?,2,3,4,1
+6,GOLF,How many major Championships does John Daly own?,2,3,4,5
+6,GOLF,How many major Championships does Dustin Johnson own?,2,3,1,4
+4,GOLF,How many major Championships does Rickie Fowler own?,0,1,2,3
+6,GOLF,Who won the 1990 Masters?,Nick Faldo,Ray Floyd,Lanny Wadkins,Fred Couples
+8,GOLF,Who won the 1991 Masters?,Ian Woosnam,Ben Crenshaw,Lanny Wadkins,Tom Watson
+6,GOLF,Who won the 1992 Masters?,Fred Couples,Ray Floyd,Corey Pavin,Jeff Sluman
+6,GOLF,Who won the 1993 Masters?,Bernhard Langer,Chip Beck,Steve Elkington,Tom Lehman
+10,GOLF,Who won the 1994 Masters?,Jose Maria Olazabal,Tom Lehman,Larry Mize,Tom Kite
+6,GOLF,Who won the 1995 Masters?,Ben Crenshaw,Davis Love III,Jay Haas,Greg Norman
+6,GOLF,Who won the 1996 Masters?,Nick Faldo,Greg Norman,Phil Mickelson,Frank Nobilo
+4,GOLF,Who won the 1997 Masters?,Tiger Woods,Tom Kite,Tommy Tolles,Tom Watson
+8,GOLF,Who won the 1998 Masters?,Mark O'Meara,Fred Couples,David Duval,Jim Furyk
+8,GOLF,Who won the 1999 Masters?,Jose Maria Olazabal,Davis Love III,Greg Norman,Bob Estes
+6,GOLF,Who won the 2000 Masters?,Vijay Singh,Ernie Els,David Duval,Tiger Woods
+4,GOLF,Who won the 2001 Masters?,Tiger Woods,David Duval,Phil Mickelson,Mark Calcavecchia
+4,GOLF,Who won the 2002 Masters?,Tiger Woods,Retief Goosen,Phil Mickelson,Ernie Els
+8,GOLF,Who won the 2003 Masters?,Mike Weir,Len Mattice,Phil Mickelson,Jim Furyk
+6,GOLF,Who won the 2004 Masters?,Phil Mickelson,Ernie Els,K.J. Choi,Sergio Garcia
+4,GOLF,Who won the 2005 Masters?,Tiger Woods,Chris DiMarco,Retief Goosen,Luke Donald
+6,GOLF,Who won the 2006 Masters?,Phil Mickelson,Tim Clark,Fred Couples,Retief Goosen
+8,GOLF,Who won the 2007 Masters?,Zach Johnson,Tiger Woods,Retief Goosen,Justin Rose
+6,GOLF,Who won the 2008 Masters?,Trevor Immelman,Tiger Woods,Brandt Snedeker,Stewart Cink
+6,GOLF,Who won the 2009 Masters?,Angel Cabrera,Chad Campbell,Kenny Perry,Phil Mickelson
+4,GOLF,Who won the 2010 Masters?,Phil Mickelson,Lee Westwood,Anthony Kim,Tiger Woods
+8,GOLF,Who won the 2011 Masters?,Charl Schwartzel,Jason Day,Adam Scott,Luke Donald
+6,GOLF,Who won the 2012 Masters?,Bubba Watson,Louis Oosthuizen,Matt Kuchar,Phil Mickelson
+6,GOLF,Who won the 2013 Masters?,Adam Scott,Angel Cabrera,Jason Day,Tiger Woods
+6,GOLF,Who won the 2014 Masters?,Bubba Watson,Jordan Spieth,Rickie Fowler,Matt Kuchar
+6,GOLF,Who won the 2015 Masters?,Jordan Spieth,Phil Mickelson,Rory McIlroy,Justin Rose
+8,GOLF,Who won the 2016 Masters?,Danny Willett,Jordan Spieth,Lee Westwood,Dustin Johnson
+6,GOLF,Who won the 2017 Masters?,Sergio Garcia,Matt Kuchar,Paul Casey,Justin Rose
+6,GOLF,Who won the 2018 Masters?,Patrick Reed,Rickie Fowler,Jordan Spieth,Jon Rahm
+4,GOLF,Who won the 2019 Masters?,Tiger Woods,Dustin Johnson,Brooks Koepka,Jason Day
+4,GOLF,Who won the 2020 Masters?,Dustin Johnson,Cam Smith,Justin Thomas,Rory McIlroy
+6,GOLF,Who won the 2021 Masters?,Hideki Matsuyama,Xander Schauffele,Jordan Spieth,Jon Rahm
+2,GOLF,Who won the 2022 Masters?,Scottie Scheffler,Rory McIlroy,Cam Smith,Shane Lowry
+8,GOLF,Who won the 1990 US Open?,Hale Irwin,Mike Donald,Billy Ray Brown,Nick Faldo
+10,GOLF,Who won the 1991 US Open?,Scott Simpson,Larry Nelson,Fred Couples,Fuzzy Zoeller
+8,GOLF,Who won the 1992 US Open?,Tom Kite,Jeff Sluman,Colin Montgomerie,Nick Faldo
+8,GOLF,Who won the 1993 US Open?,Lee Janzen,Wayne Grady,Ted Schutz,Steve Stricker
+8,GOLF,Who won the 1994 US Open?,Ernie Els,Colin Montgomerie,Loren Roberts,Curtis Strange
+8,GOLF,Who won the 1995 US Open?,Corey Pavin,Greg Norman,Tom Lehman,Jay Haas
+10,GOLF,Who won the 1996 US Open?,Steve Jones,Davis Love III,Tom Lehman,Ernie Els
+6,GOLF,Who won the 1997 US Open?,Ernie Els,Colin Montgomerie,Tom Lehman,Jeff Maggert
+8,GOLF,Who won the 1998 US Open?,Lee Janzen,Payne Stewart,Bob Tway,Nick Price
+6,GOLF,Who won the 1999 US Open?,Payne Stewart,Phil Mickelson,Vijay Singh,Tiger Woods
+4,GOLF,Who won the 2000 US Open?,Tiger Woods,Ernie Els,Nick Faldo,Stewart Cink
+8,GOLF,Who won the 2001 US Open?,Retief Goosen,Mark Brooks,Stewart Cink,Tom Kite
+6,GOLF,Who won the 2002 US Open?,Tiger Woods,Phil Mickelson,Jeff Maggert,Sergio Garcia
+8,GOLF,Who won the 2003 US Open?,Jim Furyk,Kenny Perry,Ernie Els,Justin Rose
+8,GOLF,Who won the 2004 US Open?,Retief Goosen,Phil Mickelson,Jeff Maggert,Fred Funk
+10,GOLF,Who won the 2005 US Open?,Michael Campbell,Tiger Woods,Davis Love III,Sergio Garcia
+8,GOLF,Who won the 2006 US Open?,Geoff Ogilvy,Jim Furyk,Phil Mickelson,Colin Montgomerie
+8,GOLF,Who won the 2007 US Open?,Angel Cabrera,Tiger Woods,Jim Furyk,David Toms
+4,GOLF,Who won the 2008 US Open?,Tiger Woods,Rocco Mediate,Lee Westwood,D.J. Trahan
+10,GOLF,Who won the 2009 US Open?,Lucas Glover,David Duval,Phil Mickelson,Tiger Woods
+8,GOLF,Who won the 2010 US Open?,Graeme McDowell,Ernie Els,Phil Mickelson,Tiger Woods
+6,GOLF,Who won the 2011 US Open?,Rory McIlroy,Jason Day,Lee Westwood,Sergio Garcia
+8,GOLF,Who won the 2012 US Open?,Webb Simpson,Graeme McDowell,Jason Dufner,Jim Furyk
+6,GOLF,Who won the 2013 US Open?,Justin Rose,Jason Day,Phil Mickelson,Jason Dufner
+8,GOLF,Who won the 2014 US Open?,Martin Kaymer,Rickie Fowler,Keegan Bradley,Dustin Johnson
+6,GOLF,Who won the 2015 US Open?,Jordan Spieth,Dustin Johnson,Louis Oosthuizen,Branden Grace
+6,GOLF,Who won the 2016 US Open?,Dustin Johnson,Jim Furyk,Sergio Garcia,Shane Lowry
+6,GOLF,Who won the 2017 US Open?,Brooks Koepka,Brian Harman,Tommy Fleetwood,Rickie Fowler
+6,GOLF,Who won the 2018 US Open?,Brooks Koepka,Dustin Johnson,Tommy Fleetwood,Patrick Reed
+8,GOLF,Who won the 2019 US Open?,Gary Woodland,Brooks Koepka,Jon Rahm,Xander Schauffele
+6,GOLF,Who won the 2020 US Open?,Bryson DeChambeau,Matthew Wolff,Louis Oosthuizen,Xander Schauffele
+6,GOLF,Who won the 2021 US Open?,Jon Rahm,Louis Oosthuizen,Harris English,Branden Grace
+4,GOLF,Who won the 2022 US Open?,Matt Fitzpatrick,Scottie Scheffler,Will Zalatoris,Rory McIlroy
+10,GOLF,Who won the 1990 PGA Championship?,Wayne Grady,Fred Couples,Gil Morgan,Bill Britton
+6,GOLF,Who won the 1991 PGA Championship?,John Daly,Bruce Lietzke,Jim Gallagher Jr.,Kenny Knox
+8,GOLF,Who won the 1992 PGA Championship?,Nick Price,John Cook,Nick Faldo,Jim Gallagher Jr.
+8,GOLF,Who won the 1993 PGA Championship?,Paul Azinger,Greg Norman,Nick Faldo,Vijay Singh
+8,GOLF,Who won the 1994 PGA Championship?,Nick Price,Corey Pavin,Phil Mickelson,John Cook
+8,GOLF,Who won the 1995 PGA Championship?,Steve Elkington,Colin Montgomerie,Ernie Els,Jeff Maggert
+8,GOLF,Who won the 1996 PGA Championship?,Mark Brooks,Kenny Perry,Tommy Tolles,Steve Elkington
+8,GOLF,Who won the 1997 PGA Championship?,Davis Love III,Jeff Maggert,Lee Janzen,Justin Leonard
+8,GOLF,Who won the 1998 PGA Championship?,Vijay Singh,Steve Stricker,Steve Elkington,Nick Price
+4,GOLF,Who won the 1999 PGA Championship?,Tiger Woods,Sergio Garcia,Stewart Cink,Jay Haas
+4,GOLF,Who won the 2000 PGA Championship?,Tiger Woods,Bob May,Thomas Bjorn,Stuart Appleby
+8,GOLF,Who won the 2001 PGA Championship?,David Toms,Phil Mickelson,Steve Lowery,Mark Calcavecchia
+8,GOLF,Who won the 2002 PGA Championship?,Rich Beem,Tiger Woods,Chris Riley,Fred Funk
+10,GOLF,Who won the 2003 PGA Championship?,Shaun Micheel,Chad Campbell,Timothy Clark,Alex Cejka
+6,GOLF,Who won the 2004 PGA Championship?,Vijay Singh,Chris DiMarco,Justin Leonard,Chris Riley
+6,GOLF,Who won the 2005 PGA Championship?,Phil Mickelson,Tiger Woods,Davis Love III,Steve Elkington
+4,GOLF,Who won the 2006 PGA Championship?,Tiger Woods,Shaun Micheel,Sergio Garcia,Adam Scott
+6,GOLF,Who won the 2007 PGA Championship?,Tiger Woods,Woody Austin,Ernie Els,Aaron Oberholser
+6,GOLF,Who won the 2008 PGA Championship?,Padraig Harrington,Sergio Garcia,Ben Curtis,Henrik Stenson
+6,GOLF,Who won the 2009 PGA Championship?,Y.E. Yang,Tiger Woods,Lee Westwood,Rory McIlroy
+6,GOLF,Who won the 2010 PGA Championship?,Martin Kaymer,Bubba Watson,Zach Johnson,Rory McIlroy
+6,GOLF,Who won the 2011 PGA Championship?,Keegan Bradley,Jason Dufner,Anders Hansen,Robert Karlsson
+4,GOLF,Who won the 2012 PGA Championship?,Rory McIlroy,Keegan Bradley,Ian Poulter,Justin Rose
+6,GOLF,Who won the 2013 PGA Championship?,Jason Dufner,Jim Furyk,Henrik Stenson,Adam Scott
+6,GOLF,Who won the 2014 PGA Championship?,Rory McIlroy,Phil Mickelson,Rickie Fowler,Henrik Stenson
+6,GOLF,Who won the 2015 PGA Championship?,Jason Day,Jordan Spieth,Brooks Koepka,Justin Rose
+8,GOLF,Who won the 2016 PGA Championship?,Jimmy Walker,Jason Day,Brooks Koepka,Hideki Matsuyama
+6,GOLF,Who won the 2017 PGA Championship?,Justin Thomas,Francesco Molinari,Patrick Reed,Louis Oosthuizen
+6,GOLF,Who won the 2018 PGA Championship?,Brooks Koepka,Tiger Woods,Adam Scott,Jon Rahm
+6,GOLF,Who won the 2019 PGA Championship?,Brooks Koepka,Dustin Johnson,Jordan Spieth,Patrick Cantlay
+4,GOLF,Who won the 2020 PGA Championship?,Collin Morikawa,Paul Casey,Dustin Johnson,Bryson DeChambeau
+4,GOLF,Who won the 2021 PGA Championship?,Phil Mickelson,Louis Oosthuizen,Brooks Koepka,Harry Higgs
+2,GOLF,Who won the 2022 PGA Championship?,Justin Thomas,Will Zalatoris,Mito Pereira,Cameron Young
+8,GOLF,Who won the 1990 Open Championship?,Nick Faldo,Mark McNulty,Payne Stewart,Jodie Mudd
+8,GOLF,Who won the 1991 Open Championship?,Ian Baker-Finch,Mike Harwood,Mark O'Meara,Fred Couples
+8,GOLF,Who won the 1992 Open Championship?,Nick Faldo,Tom Purtzer,Duffy Waldorf,Billy Andrade
+8,GOLF,Who won the 1993 Open Championship?,Greg Norman,Nick Faldo,Bernhard Langer,Corey Pavin
+8,GOLF,Who won the 1994 Open Championship?,Nick Price,Jesper Parnevik,Fuzzy Zoeller,Anders Forsbrand
+6,GOLF,Who won the 1995 Open Championship?,John Daly,Vijay Singh,Steve Elkington,Corey Pavin
+8,GOLF,Who won the 1996 Open Championship?,Tom Lehman,Tiger Woods,Steve Stricker,Jay Haas
+8,GOLF,Who won the 1997 Open Championship?,Justin Leonard,Darren Clarke,Jesper Parnevik,Jim Furyk
+8,GOLF,Who won the 1998 Open Championship?,Mark O'Meara,Brian Watts,Tiger Woods,Jim Furyk
+10,GOLF,Who won the 1999 Open Championship?,Paul Lawrie,Justin Leonard,Jean Van de Velde,Angel Cabrera
+4,GOLF,Who won the 2000 Open Championship?,Tiger Woods,Ernie Els,Tom Lehman,David Toms
+6,GOLF,Who won the 2001 Open Championship?,David Duval,Darren Clarke,Ernie Els,Bernhard Langer
+6,GOLF,Who won the 2002 Open Championship?,Ernie Els,Justin Rose,Tiger Woods,Pierre Fulke
+10,GOLF,Who won the 2003 Open Championship?,Ben Curtis,Thomas Bjorn,Vijay Singh,Tiger Woods
+10,GOLF,Who won the 2004 Open Championship?,Todd Hamilton,Ernie Els,Phil Mickelson,Lee Westwood
+4,GOLF,Who won the 2005 Open Championship?,Tiger Woods,Colin Montgomerie,Fred Couples,Sergio Garcia
+4,GOLF,Who won the 2006 Open Championship?,Tiger Woods,Chris DiMarco,Ernie Els,Jim Furyk
+6,GOLF,Who won the 2007 Open Championship?,Padraig Harrington,Sergio Garcia,Andres Romero,Ernie Els
+6,GOLF,Who won the 2008 Open Championship?,Padraig Harrington,Ian Poulter,Greg Norman,Henrik Stenson
+8,GOLF,Who won the 2009 Open Championship?,Stewart Cink,Tom Watson,Lee Westwood,Chris Wood
+6,GOLF,Who won the 2010 Open Championship?,Louis Oosthuizen,Lee Westwood,Paul Casey,Rory McIlroy
+10,GOLF,Who won the 2011 Open Championship?,Darren Clarke,Phil Mickelson,Dustin Johnson,Thomas Bjorn
+8,GOLF,Who won the 2012 Open Championship?,Ernie Els,Adam Scott,Brandt Snedeker,Tiger Woods
+6,GOLF,Who won the 2013 Open Championship?,Phil Mickelson,Henrik Stenson,Ian Poulter,Adam Scott
+6,GOLF,Who won the 2014 Open Championship?,Rory McIlroy,Rickie Fowler,Sergio Garcia,Jim Furyk
+8,GOLF,Who won the 2015 Open Championship?,Zach Johnson,Louis Oosthuizen,Marc Leishman,Jordan Spieth
+6,GOLF,Who won the 2016 Open Championship?,Henrik Stenson,Phil Mickelson,J.B. Holmes,Steve Stricker
+6,GOLF,Who won the 2017 Open Championship?,Jordan Spieth,Matt Kuchar,Rory McIlroy,Marc Leishman
+6,GOLF,Who won the 2018 Open Championship?,Francesco Molinari,Xander Schauffele,Justin Rose,Rory McIlroy
+8,GOLF,Who won the 2019 Open Championship?,Shane Lowry,Tommy Fleetwood,Tony Finau,Brooks Koepka
+6,GOLF,Who won the 2021 Open Championship?,Collin Morikawa,Jordan Spieth,Jon Rahm,Louis Oosthuizen
+2,GOLF,Who won the 2022 Open Championship?,Cam Smith,Cam Young,Rory McIlroy,Tommy Fleetwood

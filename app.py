@@ -1,6 +1,5 @@
 import random
 import threading
-from postmarker.core import PostmarkClient
 from flask import Flask
 from flask import request
 from apscheduler.schedulers.background import BackgroundScheduler

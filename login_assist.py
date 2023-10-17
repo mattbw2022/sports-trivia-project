@@ -1,5 +1,4 @@
 from flask import Blueprint
-from postmarker.core import PostmarkClient
 from helpers import login_required, get_db_connection, db_first, db_no_paramater_query, check_password, db_query, dict_factory
 from flask import render_template, session, request, redirect, flash
 from werkzeug.security import check_password_hash, generate_password_hash

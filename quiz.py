@@ -52,7 +52,7 @@ def getNextQuestion(test_id, index):
     questions_db = db_first("SELECT question FROM questions WHERE id = ?",question_ids[index])
     question = questions_db["question"]
 
-    # get the correct answer and wrong ansers for current question
+    # get the correct answer and wrong answers for current question
     answers = []
     answers_db = db_query("SELECT correct_answer, wrong_1, wrong_2, wrong_3 FROM questions WHERE id = ?", question_ids[index])
     answer = answers_db[0]["correct_answer"]
@@ -146,7 +146,6 @@ def answerQuestion(test_id, index):
             correct_answer_id = correct_answers_ids_db[i]["questions_id"]
             correct_answers_ids.append(correct_answer_id)
             i += 1
-
         # update correct answers
         conn = get_db_connection()
         conn.execute("UPDATE users_tests_rel SET correct_answers = ? WHERE user_id = ? AND test_id = ?", (len(correct_answers_ids), user_id, test_id))
@@ -156,7 +155,7 @@ def answerQuestion(test_id, index):
         # get point value of most recent correct answer
         i = 0
         for item in correct_answers_ids:
-            new_points_db = db_query("SELECT point_value FROM questions WHERE id = ?", question_ids[i])
+            new_points_db = db_query("SELECT point_value FROM questions WHERE id = ?", correct_answers_ids[i])
             new_points = new_points_db[0]["point_value"]
             quiz_points = quiz_points + new_points
             i += 1
